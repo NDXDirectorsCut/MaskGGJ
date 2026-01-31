@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 89a4941be4822cb4bbecae771c35aa1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -817083623580953139
+    second: PicoareModel1_0
+  - first:
+      213: -64284543894598729
+    second: PicoareModel1_1
+  - first:
+      213: -2710760210696151603
+    second: PicoareModel1_2
+  - first:
+      213: 7986581767872540678
+    second: PicoareModel1_3
+  - first:
+      213: -7264867701009845496
+    second: PicoareModel1_4
+  - first:
+      213: -1892052557848998855
+    second: PicoareModel1_5
+  - first:
+      213: 8022576931125982179
+    second: PicoareModel1_6
+  - first:
+      213: -7722724927059872162
+    second: PicoareModel1_7
+  - first:
+      213: 8584687081430999896
+    second: PicoareModel1_8
+  - first:
+      213: -2615335798925195536
+    second: PicoareModel1_9
+  - first:
+      213: 4268161132228549521
+    second: PicoareModel1_10
+  - first:
+      213: -2073583724899680057
+    second: PicoareModel1_11
+  - first:
+      213: -2326988256636320535
+    second: PicoareModel1_12
+  - first:
+      213: -1635631569840820741
+    second: PicoareModel1_13
+  - first:
+      213: -2479526878641063460
+    second: PicoareModel1_14
+  - first:
+      213: 3880448304100726053
+    second: PicoareModel1_15
+  - first:
+      213: -3843671901104391156
+    second: PicoareModel1_16
+  - first:
+      213: -3545316197902214798
+    second: PicoareModel1_17
+  - first:
+      213: 3973053174988488183
+    second: PicoareModel1_18
+  - first:
+      213: -1854992324335107196
+    second: PicoareModel1_19
+  - first:
+      213: 1260085592826008260
+    second: PicoareModel1_20
+  - first:
+      213: 8736534065842609891
+    second: PicoareModel1_21
+  - first:
+      213: -7833751310288535082
+    second: PicoareModel1_22
+  - first:
+      213: 5508772195077449
+    second: PicoareModel1_23
+  - first:
+      213: -5574392704257449951
+    second: PicoareModel1_24
+  - first:
+      213: 2670396747054124778
+    second: PicoareModel1_25
+  - first:
+      213: 5478563161772646402
+    second: PicoareModel1_26
+  - first:
+      213: 1752371600458640305
+    second: PicoareModel1_27
+  - first:
+      213: 6228641310602374993
+    second: PicoareModel1_28
+  - first:
+      213: -1335083007319523111
+    second: PicoareModel1_29
+  - first:
+      213: -5036078925130901246
+    second: PicoareModel1_30
+  - first:
+      213: 1163159987106618104
+    second: PicoareModel1_31
+  - first:
+      213: 1573389096610533207
+    second: PicoareModel1_32
+  - first:
+      213: -2438541414658552084
+    second: PicoareModel1_33
+  - first:
+      213: -1698515719504437035
+    second: PicoareModel1_34
+  - first:
+      213: -7202009524590294291
+    second: PicoareModel1_35
+  - first:
+      213: -5908925394784829908
+    second: PicoareModel1_36
+  - first:
+      213: 5245821058474181697
+    second: PicoareModel1_37
+  - first:
+      213: -4300081825946551502
+    second: PicoareModel1_38
+  - first:
+      213: -4994744268826483383
+    second: PicoareModel1_39
+  - first:
+      213: -3068423766829847815
+    second: PicoareModel1_40
+  - first:
+      213: 7237373027294570034
+    second: PicoareModel1_41
+  - first:
+      213: 3962238916000570050
+    second: PicoareModel1_42
+  - first:
+      213: -8498882148937107371
+    second: PicoareModel1_43
+  - first:
+      213: -2309188956725919287
+    second: PicoareModel1_44
+  - first:
+      213: -1959050424312450608
+    second: PicoareModel1_45
+  - first:
+      213: 145734809227481107
+    second: PicoareModel1_46
+  - first:
+      213: 5063461719119756582
+    second: PicoareModel1_47
+  - first:
+      213: 9198052908014709743
+    second: PicoareModel1_48
+  - first:
+      213: -8388058205535148807
+    second: PicoareModel1_49
+  - first:
+      213: -4978202272202028040
+    second: PicoareModel1_50
+  - first:
+      213: 8834996510699281541
+    second: PicoareModel1_51
+  - first:
+      213: 6242793372728733353
+    second: PicoareModel1_52
+  - first:
+      213: 2951289830227496593
+    second: PicoareModel1_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PicoareModel1_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc51ba006c229a4f0800000000000000
+      internalID: -817083623580953139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 845
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4d944c8d9b1ff0800000000000000
+      internalID: -64284543894598729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 675
+        width: 132
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd513a53f1716ad0800000000000000
+      internalID: -2710760210696151603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60077ab9dc906de60800000000000000
+      internalID: 7986581767872540678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803791d11510e2b90800000000000000
+      internalID: -7264867701009845496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 495
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c8a0129341eb5e0800000000000000
+      internalID: -1892052557848998855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 499
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3f103a63be55f60800000000000000
+      internalID: 8022576931125982179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 463
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ba88789e53d490800000000000000
+      internalID: -7722724927059872162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853649cba6fe22770800000000000000
+      internalID: 8584687081430999896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f683b092f574bbd0800000000000000
+      internalID: -2615335798925195536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b9c92afed8b3b30800000000000000
+      internalID: 4268161132228549521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c259a6962933e0800000000000000
+      internalID: -2073583724899680057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 443
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4cfae6280e4bfd0800000000000000
+      internalID: -2326988256636320535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2930d0c11d49e0800000000000000
+      internalID: -1635631569840820741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9f093e073f69dd0800000000000000
+      internalID: -2479526878641063460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 447
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525d03f4c2f1ad530800000000000000
+      internalID: 3880448304100726053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 453
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb58545c888aac0800000000000000
+      internalID: -3843671901104391156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279999fa3b18ccec0800000000000000
+      internalID: -3545316197902214798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3de000de132730800000000000000
+      internalID: 3973053174988488183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830ee62f4eb146e0800000000000000
+      internalID: -1854992324335107196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c25bf2ab29bc7110800000000000000
+      internalID: 1260085592826008260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_21
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eed5aad1776e3970800000000000000
+      internalID: 8736534065842609891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1408330bce84390800000000000000
+      internalID: -7833751310288535082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d06d9f232931000800000000000000
+      internalID: 5508772195077449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_24
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 445
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a430be57c3a2b0800000000000000
+      internalID: -5574392704257449951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee058d61b72f0520800000000000000
+      internalID: 2670396747054124778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200eff04b24c70c40800000000000000
+      internalID: 5478563161772646402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 442
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbe1d7afaca15810800000000000000
+      internalID: 1752371600458640305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_28
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f27cf6544907650800000000000000
+      internalID: 6228641310602374993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d04f031415d87de0800000000000000
+      internalID: -1335083007319523111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_30
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ddbe56e04c1ab0800000000000000
+      internalID: -5036078925130901246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa107878df542010800000000000000
+      internalID: 1163159987106618104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 347
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f81f41c0dc5d510800000000000000
+      internalID: 1573389096610533207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 301
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec239d08f882ed0800000000000000
+      internalID: -2438541414658552084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06585c3f8ad68e0800000000000000
+      internalID: -1698515719504437035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 186
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac0d9ce725d0c90800000000000000
+      internalID: -7202009524590294291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 276
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb09709a74ffda0800000000000000
+      internalID: -5908925394784829908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1440e998576ecc840800000000000000
+      internalID: 5245821058474181697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bb753bc5a0354c0800000000000000
+      internalID: -4300081825946551502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945eda00d8a1faab0800000000000000
+      internalID: -4994744268826483383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faadbd57d4ca65d0800000000000000
+      internalID: -3068423766829847815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e2ee4c60507460800000000000000
+      internalID: 7237373027294570034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca517f1d43bcf630800000000000000
+      internalID: 3962238916000570050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f1bce6b7ed0a80800000000000000
+      internalID: -8498882148937107371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 92
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c813e0ec14ffd0800000000000000
+      internalID: -2309188956725919287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d137c1c40e00d4e0800000000000000
+      internalID: -1959050424312450608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 70
+        width: 256
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d96f6901c50200800000000000000
+      internalID: 145734809227481107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_47
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 89
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfbed2b97054640800000000000000
+      internalID: 5063461719119756582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_48
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb277fe26c06af70800000000000000
+      internalID: 9198052908014709743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_49
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 86
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e6cff081a79b80800000000000000
+      internalID: -8388058205535148807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 92
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb0b59b86fd9eab0800000000000000
+      internalID: -4978202272202028040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 89
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cdb0444863c9a70800000000000000
+      internalID: 8834996510699281541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_52
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea8ab2f7bd2a650800000000000000
+      internalID: 6242793372728733353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicoareModel1_53
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecee7c67615f820800000000000000
+      internalID: 2951289830227496593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PicoareModel1_0: -817083623580953139
+      PicoareModel1_1: -64284543894598729
+      PicoareModel1_10: 4268161132228549521
+      PicoareModel1_11: -2073583724899680057
+      PicoareModel1_12: -2326988256636320535
+      PicoareModel1_13: -1635631569840820741
+      PicoareModel1_14: -2479526878641063460
+      PicoareModel1_15: 3880448304100726053
+      PicoareModel1_16: -3843671901104391156
+      PicoareModel1_17: -3545316197902214798
+      PicoareModel1_18: 3973053174988488183
+      PicoareModel1_19: -1854992324335107196
+      PicoareModel1_2: -2710760210696151603
+      PicoareModel1_20: 1260085592826008260
+      PicoareModel1_21: 8736534065842609891
+      PicoareModel1_22: -7833751310288535082
+      PicoareModel1_23: 5508772195077449
+      PicoareModel1_24: -5574392704257449951
+      PicoareModel1_25: 2670396747054124778
+      PicoareModel1_26: 5478563161772646402
+      PicoareModel1_27: 1752371600458640305
+      PicoareModel1_28: 6228641310602374993
+      PicoareModel1_29: -1335083007319523111
+      PicoareModel1_3: 7986581767872540678
+      PicoareModel1_30: -5036078925130901246
+      PicoareModel1_31: 1163159987106618104
+      PicoareModel1_32: 1573389096610533207
+      PicoareModel1_33: -2438541414658552084
+      PicoareModel1_34: -1698515719504437035
+      PicoareModel1_35: -7202009524590294291
+      PicoareModel1_36: -5908925394784829908
+      PicoareModel1_37: 5245821058474181697
+      PicoareModel1_38: -4300081825946551502
+      PicoareModel1_39: -4994744268826483383
+      PicoareModel1_4: -7264867701009845496
+      PicoareModel1_40: -3068423766829847815
+      PicoareModel1_41: 7237373027294570034
+      PicoareModel1_42: 3962238916000570050
+      PicoareModel1_43: -8498882148937107371
+      PicoareModel1_44: -2309188956725919287
+      PicoareModel1_45: -1959050424312450608
+      PicoareModel1_46: 145734809227481107
+      PicoareModel1_47: 5063461719119756582
+      PicoareModel1_48: 9198052908014709743
+      PicoareModel1_49: -8388058205535148807
+      PicoareModel1_5: -1892052557848998855
+      PicoareModel1_50: -4978202272202028040
+      PicoareModel1_51: 8834996510699281541
+      PicoareModel1_52: 6242793372728733353
+      PicoareModel1_53: 2951289830227496593
+      PicoareModel1_6: 8022576931125982179
+      PicoareModel1_7: -7722724927059872162
+      PicoareModel1_8: 8584687081430999896
+      PicoareModel1_9: -2615335798925195536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

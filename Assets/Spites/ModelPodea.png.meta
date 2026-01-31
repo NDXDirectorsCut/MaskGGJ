@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 35fc22a3b3ebe6b4ca863df2d4acb02a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2417896654584087016
+    second: ModelPodea_0
+  - first:
+      213: 7629910107319485457
+    second: ModelPodea_1
+  - first:
+      213: 6889012231028794880
+    second: ModelPodea_2
+  - first:
+      213: 5909279510699382346
+    second: ModelPodea_3
+  - first:
+      213: 940733443886767210
+    second: ModelPodea_4
+  - first:
+      213: -1557874815682084778
+    second: ModelPodea_5
+  - first:
+      213: 4797534866701486412
+    second: ModelPodea_6
+  - first:
+      213: 7801693077345541809
+    second: ModelPodea_7
+  - first:
+      213: 3576111382918919685
+    second: ModelPodea_8
+  - first:
+      213: 4130098533796976444
+    second: ModelPodea_9
+  - first:
+      213: 2423585808128107453
+    second: ModelPodea_10
+  - first:
+      213: 7257540419642148555
+    second: ModelPodea_11
+  - first:
+      213: 7881860693847640615
+    second: ModelPodea_12
+  - first:
+      213: 7424293782112329315
+    second: ModelPodea_13
+  - first:
+      213: 2483262442033001176
+    second: ModelPodea_14
+  - first:
+      213: -570277521973052247
+    second: ModelPodea_15
+  - first:
+      213: 1609787103205788450
+    second: ModelPodea_16
+  - first:
+      213: 3881291061284148396
+    second: ModelPodea_17
+  - first:
+      213: -8744356363495760226
+    second: ModelPodea_18
+  - first:
+      213: 6325621387574211200
+    second: ModelPodea_19
+  - first:
+      213: -3100429907158122402
+    second: ModelPodea_20
+  - first:
+      213: 7753604680567395622
+    second: ModelPodea_21
+  - first:
+      213: 5930782311805963839
+    second: ModelPodea_22
+  - first:
+      213: 4333402575571107725
+    second: ModelPodea_23
+  - first:
+      213: 8685314286747426262
+    second: ModelPodea_24
+  - first:
+      213: 6086781670010660521
+    second: ModelPodea_25
+  - first:
+      213: 7032890661492281876
+    second: ModelPodea_26
+  - first:
+      213: -7367889727179640495
+    second: ModelPodea_27
+  - first:
+      213: 9060847418827127048
+    second: ModelPodea_28
+  - first:
+      213: -7878583925503389891
+    second: ModelPodea_29
+  - first:
+      213: 5659683083503549795
+    second: ModelPodea_30
+  - first:
+      213: 8398568575522012365
+    second: ModelPodea_31
+  - first:
+      213: -3796454754546959872
+    second: ModelPodea_32
+  - first:
+      213: -1387213808323128978
+    second: ModelPodea_33
+  - first:
+      213: -8582329790693409616
+    second: ModelPodea_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ModelPodea_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef8ef9dc7e17ed0800000000000000
+      internalID: -2417896654584087016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 675
+        width: 132
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114c0fe41d2e2e960800000000000000
+      internalID: 7629910107319485457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 857
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006eac3ef10ba9f50800000000000000
+      internalID: 6889012231028794880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a461bb1086af10250800000000000000
+      internalID: 5909279510699382346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 526
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c533f35182e0d00800000000000000
+      internalID: 940733443886767210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 507
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500ebeeb11516ae0800000000000000
+      internalID: -1557874815682084778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 511
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490b47fa84449240800000000000000
+      internalID: 4797534866701486412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1ec9c48e254c60800000000000000
+      internalID: 7801693077345541809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 463
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506fc101b56e0a130800000000000000
+      internalID: 3576111382918919685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 460
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37945afbbe015930800000000000000
+      internalID: 4130098533796976444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 445
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36728a37e42a120800000000000000
+      internalID: 2423585808128107453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 459
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc64fcf3f86f7b460800000000000000
+      internalID: 7257540419642148555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 464
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a07e98a8ef16d60800000000000000
+      internalID: 7881860693847640615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 462
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e52f6fbd3680760800000000000000
+      internalID: 7424293782112329315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 454
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2327db802567220800000000000000
+      internalID: 2483262442033001176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 469
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acf76f7d97f518f0800000000000000
+      internalID: -570277521973052247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 469
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b069267dc175610800000000000000
+      internalID: 1609787103205788450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 459
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49db108ad1dd530800000000000000
+      internalID: 3881291061284148396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 453
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e986c873ec5a680800000000000000
+      internalID: -8744356363495760226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08279fd232f19c750800000000000000
+      internalID: 6325621387574211200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50c7dc1d6f09f4d0800000000000000
+      internalID: -3100429907158122402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625960a60665a9b60800000000000000
+      internalID: 7753604680567395622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4d57071f5e4250800000000000000
+      internalID: 5930782311805963839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fbda1eea6532c30800000000000000
+      internalID: 4333402575571107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9438b35f688870800000000000000
+      internalID: 8685314286747426262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 456
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a628520ea7987450800000000000000
+      internalID: 6086781670010660521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 442
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d8667bc8d99160800000000000000
+      internalID: 7032890661492281876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1513533745fffb990800000000000000
+      internalID: -7367889727179640495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b43398b89ebd70800000000000000
+      internalID: 9060847418827127048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f844b89a5a9a290800000000000000
+      internalID: -7878583925503389891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 369
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d348537cb3b8e40800000000000000
+      internalID: 5659683083503549795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_31
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 359
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc7fb53f95bd8470800000000000000
+      internalID: 8398568575522012365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab265e388405bc0800000000000000
+      internalID: -3796454754546959872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_33
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 316
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61126f1460afbce0800000000000000
+      internalID: -1387213808323128978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelPodea_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc7778c68075e880800000000000000
+      internalID: -8582329790693409616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ModelPodea_0: -2417896654584087016
+      ModelPodea_1: 7629910107319485457
+      ModelPodea_10: 2423585808128107453
+      ModelPodea_11: 7257540419642148555
+      ModelPodea_12: 7881860693847640615
+      ModelPodea_13: 7424293782112329315
+      ModelPodea_14: 2483262442033001176
+      ModelPodea_15: -570277521973052247
+      ModelPodea_16: 1609787103205788450
+      ModelPodea_17: 3881291061284148396
+      ModelPodea_18: -8744356363495760226
+      ModelPodea_19: 6325621387574211200
+      ModelPodea_2: 6889012231028794880
+      ModelPodea_20: -3100429907158122402
+      ModelPodea_21: 7753604680567395622
+      ModelPodea_22: 5930782311805963839
+      ModelPodea_23: 4333402575571107725
+      ModelPodea_24: 8685314286747426262
+      ModelPodea_25: 6086781670010660521
+      ModelPodea_26: 7032890661492281876
+      ModelPodea_27: -7367889727179640495
+      ModelPodea_28: 9060847418827127048
+      ModelPodea_29: -7878583925503389891
+      ModelPodea_3: 5909279510699382346
+      ModelPodea_30: 5659683083503549795
+      ModelPodea_31: 8398568575522012365
+      ModelPodea_32: -3796454754546959872
+      ModelPodea_33: -1387213808323128978
+      ModelPodea_34: -8582329790693409616
+      ModelPodea_4: 940733443886767210
+      ModelPodea_5: -1557874815682084778
+      ModelPodea_6: 4797534866701486412
+      ModelPodea_7: 7801693077345541809
+      ModelPodea_8: 3576111382918919685
+      ModelPodea_9: 4130098533796976444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

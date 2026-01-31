@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 979d866c54b07274b88df5969186d2a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2767768274985529555
+    second: PicioareModel2_0
+  - first:
+      213: -6459344193118031360
+    second: PicioareModel2_1
+  - first:
+      213: 758133909542908365
+    second: PicioareModel2_2
+  - first:
+      213: 4692338922544564655
+    second: PicioareModel2_3
+  - first:
+      213: -1399325596667441282
+    second: PicioareModel2_4
+  - first:
+      213: -8226563502700707361
+    second: PicioareModel2_5
+  - first:
+      213: 8419012690782415173
+    second: PicioareModel2_6
+  - first:
+      213: -4674329240543185594
+    second: PicioareModel2_7
+  - first:
+      213: 882202786207064542
+    second: PicioareModel2_8
+  - first:
+      213: 553602392373640307
+    second: PicioareModel2_9
+  - first:
+      213: 2100447041424035490
+    second: PicioareModel2_10
+  - first:
+      213: -1161419809861573998
+    second: PicioareModel2_11
+  - first:
+      213: 8174511631402196492
+    second: PicioareModel2_12
+  - first:
+      213: -7629572564126350526
+    second: PicioareModel2_13
+  - first:
+      213: -8581769139901014009
+    second: PicioareModel2_14
+  - first:
+      213: -3400253729593486899
+    second: PicioareModel2_15
+  - first:
+      213: -3592583607447716096
+    second: PicioareModel2_16
+  - first:
+      213: -5789833557737756708
+    second: PicioareModel2_17
+  - first:
+      213: 1637945668600588829
+    second: PicioareModel2_18
+  - first:
+      213: -3715323139676069239
+    second: PicioareModel2_19
+  - first:
+      213: 6095923380501428985
+    second: PicioareModel2_20
+  - first:
+      213: 8212924937733256539
+    second: PicioareModel2_21
+  - first:
+      213: 1950780668943090091
+    second: PicioareModel2_22
+  - first:
+      213: 4878401607123102063
+    second: PicioareModel2_23
+  - first:
+      213: -2160774139162123785
+    second: PicioareModel2_24
+  - first:
+      213: 8002094124754953579
+    second: PicioareModel2_25
+  - first:
+      213: -8332317095911449247
+    second: PicioareModel2_26
+  - first:
+      213: -389119016580101744
+    second: PicioareModel2_27
+  - first:
+      213: 7843090065357092282
+    second: PicioareModel2_28
+  - first:
+      213: -3972994636065818502
+    second: PicioareModel2_29
+  - first:
+      213: -6572803793584043130
+    second: PicioareModel2_30
+  - first:
+      213: 7735321211633134216
+    second: PicioareModel2_31
+  - first:
+      213: 3244725516901899683
+    second: PicioareModel2_32
+  - first:
+      213: -7779301323495228036
+    second: PicioareModel2_33
+  - first:
+      213: 607202989013358938
+    second: PicioareModel2_34
+  - first:
+      213: 2051176326085240885
+    second: PicioareModel2_35
+  - first:
+      213: -5849149280874003804
+    second: PicioareModel2_36
+  - first:
+      213: 2508950107009367066
+    second: PicioareModel2_37
+  - first:
+      213: -6765492931754348074
+    second: PicioareModel2_38
+  - first:
+      213: -8705330565200799980
+    second: PicioareModel2_39
+  - first:
+      213: 3533952615337090207
+    second: PicioareModel2_40
+  - first:
+      213: -1880596724795389566
+    second: PicioareModel2_41
+  - first:
+      213: 8955499576935850833
+    second: PicioareModel2_42
+  - first:
+      213: 3102952676045767301
+    second: PicioareModel2_43
+  - first:
+      213: 3766758318221409368
+    second: PicioareModel2_44
+  - first:
+      213: 746764101904443339
+    second: PicioareModel2_45
+  - first:
+      213: -5277940146728175591
+    second: PicioareModel2_46
+  - first:
+      213: 8597937446816612271
+    second: PicioareModel2_47
+  - first:
+      213: -5788386023391455685
+    second: PicioareModel2_48
+  - first:
+      213: -1805873378393087038
+    second: PicioareModel2_49
+  - first:
+      213: 6701823387308884664
+    second: PicioareModel2_50
+  - first:
+      213: 5782376853371575085
+    second: PicioareModel2_51
+  - first:
+      213: 6411829305017237626
+    second: PicioareModel2_52
+  - first:
+      213: -1980045512101493211
+    second: PicioareModel2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PicioareModel2_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bb13f496196620800000000000000
+      internalID: 2767768274985529555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 845
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b73fedaccb56a0800000000000000
+      internalID: -6459344193118031360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 675
+        width: 132
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1bb7226ce658a00800000000000000
+      internalID: 758133909542908365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9020493698e1140800000000000000
+      internalID: 4692338922544564655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8685a8c8949ce0800000000000000
+      internalID: -1399325596667441282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 495
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c45b941065dd80800000000000000
+      internalID: -8226563502700707361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 499
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496799bf6756d470800000000000000
+      internalID: 8419012690782415173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 463
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b3364252712fb0800000000000000
+      internalID: -4674329240543185594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16bbb82c63e3c00800000000000000
+      internalID: 882202786207064542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cbc38517acea700800000000000000
+      internalID: 553602392373640307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae899d9479462d10800000000000000
+      internalID: 2100447041424035490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292691e16dec1efe0800000000000000
+      internalID: -1161419809861573998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 443
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed602b403b17170800000000000000
+      internalID: 8174511631402196492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ce271d205e1690800000000000000
+      internalID: -7629572564126350526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006ac77f6e67e880800000000000000
+      internalID: -8581769139901014009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 447
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1126d8f3fdfc0d0800000000000000
+      internalID: -3400253729593486899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 453
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fff2c4e34942ec0800000000000000
+      internalID: -3592583607447716096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7a76a1e0166afa0800000000000000
+      internalID: -5789833557737756708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae35a48e62bb610800000000000000
+      internalID: 1637945668600588829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a1d10a45807cc0800000000000000
+      internalID: -3715323139676069239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa39c85402199450800000000000000
+      internalID: 6095923380501428985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_21
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55b98887bb2af170800000000000000
+      internalID: 8212924937733256539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba14d07cea0921b10800000000000000
+      internalID: 1950780668943090091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6964403a6093b340800000000000000
+      internalID: 4878401607123102063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_24
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 445
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f124636e536302e0800000000000000
+      internalID: -2160774139162123785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b656245a5362d0f60800000000000000
+      internalID: 8002094124754953579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d984e6fb9ad5c80800000000000000
+      internalID: -8332317095911449247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 442
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c469e052999af0800000000000000
+      internalID: -389119016580101744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_28
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab531072cd048dc60800000000000000
+      internalID: 7843090065357092282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b3c6ad661dd8c0800000000000000
+      internalID: -3972994636065818502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_30
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b451126c5b8c4a0800000000000000
+      internalID: -6572803793584043130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aefe298a1695b60800000000000000
+      internalID: 7735321211633134216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 347
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad55949aa4970d20800000000000000
+      internalID: 3244725516901899683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 301
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d375ca9ae5a0490800000000000000
+      internalID: -7779301323495228036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5952b2c6e73d6800800000000000000
+      internalID: 607202989013358938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 276
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5386000400e377c10800000000000000
+      internalID: 2051176326085240885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2064b18b5a3dea0800000000000000
+      internalID: -5849149280874003804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb87f44d491d220800000000000000
+      internalID: 2508950107009367066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1bd5016042c12a0800000000000000
+      internalID: -6765492931754348074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171bd849f3703780800000000000000
+      internalID: -8705330565200799980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cda321e2f1b0130800000000000000
+      internalID: 3533952615337090207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cecc1e37c6e5e0800000000000000
+      internalID: -1880596724795389566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1532c6dba63584c70800000000000000
+      internalID: 8955499576935850833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 92
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824e8ac407ef0b20800000000000000
+      internalID: 3102952676045767301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cb558bbb6364430800000000000000
+      internalID: 3766758318221409368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 83
+        width: 187
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc727018ef90d5a00800000000000000
+      internalID: 746764101904443339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 68
+        width: 251
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187e78766df0c6b0800000000000000
+      internalID: -5277940146728175591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_47
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 89
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf7886dd82025770800000000000000
+      internalID: 8597937446816612271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_48
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369ae474958bafa0800000000000000
+      internalID: -5788386023391455685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_49
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 86
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ab83fabf30f6e0800000000000000
+      internalID: -1805873378393087038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 92
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b283fbecd8a10d50800000000000000
+      internalID: 6701823387308884664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 89
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b57ae9c112f3050800000000000000
+      internalID: 5782376853371575085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_52
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a700ef518c46bf850800000000000000
+      internalID: 6411829305017237626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicioareModel2_53
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268514f8177584e0800000000000000
+      internalID: -1980045512101493211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PicioareModel2_0: 2767768274985529555
+      PicioareModel2_1: -6459344193118031360
+      PicioareModel2_10: 2100447041424035490
+      PicioareModel2_11: -1161419809861573998
+      PicioareModel2_12: 8174511631402196492
+      PicioareModel2_13: -7629572564126350526
+      PicioareModel2_14: -8581769139901014009
+      PicioareModel2_15: -3400253729593486899
+      PicioareModel2_16: -3592583607447716096
+      PicioareModel2_17: -5789833557737756708
+      PicioareModel2_18: 1637945668600588829
+      PicioareModel2_19: -3715323139676069239
+      PicioareModel2_2: 758133909542908365
+      PicioareModel2_20: 6095923380501428985
+      PicioareModel2_21: 8212924937733256539
+      PicioareModel2_22: 1950780668943090091
+      PicioareModel2_23: 4878401607123102063
+      PicioareModel2_24: -2160774139162123785
+      PicioareModel2_25: 8002094124754953579
+      PicioareModel2_26: -8332317095911449247
+      PicioareModel2_27: -389119016580101744
+      PicioareModel2_28: 7843090065357092282
+      PicioareModel2_29: -3972994636065818502
+      PicioareModel2_3: 4692338922544564655
+      PicioareModel2_30: -6572803793584043130
+      PicioareModel2_31: 7735321211633134216
+      PicioareModel2_32: 3244725516901899683
+      PicioareModel2_33: -7779301323495228036
+      PicioareModel2_34: 607202989013358938
+      PicioareModel2_35: 2051176326085240885
+      PicioareModel2_36: -5849149280874003804
+      PicioareModel2_37: 2508950107009367066
+      PicioareModel2_38: -6765492931754348074
+      PicioareModel2_39: -8705330565200799980
+      PicioareModel2_4: -1399325596667441282
+      PicioareModel2_40: 3533952615337090207
+      PicioareModel2_41: -1880596724795389566
+      PicioareModel2_42: 8955499576935850833
+      PicioareModel2_43: 3102952676045767301
+      PicioareModel2_44: 3766758318221409368
+      PicioareModel2_45: 746764101904443339
+      PicioareModel2_46: -5277940146728175591
+      PicioareModel2_47: 8597937446816612271
+      PicioareModel2_48: -5788386023391455685
+      PicioareModel2_49: -1805873378393087038
+      PicioareModel2_5: -8226563502700707361
+      PicioareModel2_50: 6701823387308884664
+      PicioareModel2_51: 5782376853371575085
+      PicioareModel2_52: 6411829305017237626
+      PicioareModel2_53: -1980045512101493211
+      PicioareModel2_6: 8419012690782415173
+      PicioareModel2_7: -4674329240543185594
+      PicioareModel2_8: 882202786207064542
+      PicioareModel2_9: 553602392373640307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

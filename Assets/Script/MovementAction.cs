@@ -5,9 +5,9 @@ using UnityEngine;
 public class MovementAction : MonoBehaviour
 {
     EntityBehaviour entity;
-    public float speed = 5;
-    public float startAccel = 25;
-    public float startDecel = 25;
+    // public float speed = 5;
+    // public float startAccel = 25;
+    // public float startDecel = 25;
 
     // Start is called before the first frame update
     void Start()
@@ -15,22 +15,22 @@ public class MovementAction : MonoBehaviour
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
-    void Move(float force, float hor, float deltaTime)
+    void Move(float accel, float speed, float hor, float deltaTime)
     {
         float acceleration;
         float currentSpeed = entity.body.linearVelocity.x;
         if(currentSpeed*hor>0)
-            acceleration = (1-(Mathf.Abs(currentSpeed)/speed)) * force;
+            acceleration = (1-(Mathf.Abs(currentSpeed)/speed)) * accel;
         else
-            acceleration = force;
+            acceleration = accel;
 
         entity.body.linearVelocity += Vector2.Perpendicular(-entity.normal) * hor * acceleration * deltaTime;
     }
 
-    void Decelerate(float force, float deltaTime)
+    void Decelerate(float decel,float speed, float deltaTime)
     {
-        float deceleration = entity.body.linearVelocity.x/speed * force;
-        entity.body.linearVelocity -= Vector2.Perpendicular(-entity.normal) * deceleration * deltaTime;
+        float deceleration = entity.body.linearVelocity.x/speed * decel;
+        entity.body.linearVelocity -= -Vector2.Perpendicular(entity.normal) * deceleration * deltaTime;
     }
 
     // Update is called once per frame
@@ -43,22 +43,22 @@ public class MovementAction : MonoBehaviour
             {
                 if(entity.inputs.horizontal!=0)
                 {
-                    Move(startAccel,entity.inputs.horizontal,Time.fixedDeltaTime);
+                    Move(entity.stats.accel,entity.stats.baseSpeed,entity.inputs.horizontal,Time.fixedDeltaTime);
                 }
                 else
                 {
-                    Decelerate(startDecel, Time.fixedDeltaTime);
+                    Decelerate(entity.stats.decel, entity.stats.baseSpeed, Time.fixedDeltaTime);
                 }
             }
             else
             {
                 if(entity.inputs.horizontal!=0)
                 {
-                    Move(startAccel/2,entity.inputs.horizontal,Time.fixedDeltaTime);
+                    Move(entity.stats.accel/2,entity.stats.baseSpeed,entity.inputs.horizontal,Time.fixedDeltaTime);
                 }
                 else
                 {
-                    Decelerate(startDecel/10, Time.fixedDeltaTime);
+                    Decelerate(entity.stats.decel/10, entity.stats.baseSpeed, Time.fixedDeltaTime);
                 }
             }
         }

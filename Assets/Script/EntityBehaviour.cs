@@ -14,6 +14,20 @@ public class EntityInputs
     public bool interact;
 }
 
+[System.Serializable]
+public class EntityStats
+{
+    public int health = 5;
+    public float baseSpeed = 6;
+    public float accel = 40;
+    public float decel = 60;
+    public float sprintSpeed = 12;
+    public float baseJump = 4;
+    public float addJump = 35;
+    public float baseDamage = 1;
+    public float attackCooldown;
+}
+
 public class EntityBehaviour : MonoBehaviour
 {
     [System.NonSerialized]
@@ -22,7 +36,7 @@ public class EntityBehaviour : MonoBehaviour
     private string entityState = "Null";
     public bool stateLock = false;
 
-    public int health = 5;
+    public EntityStats stats;
     
     [Space(10)]
     public EntityInputs inputs;

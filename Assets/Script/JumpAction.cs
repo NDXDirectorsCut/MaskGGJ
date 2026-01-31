@@ -16,7 +16,7 @@ public class JumpAction : MonoBehaviour
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
-    IEnumerator Jump()
+    IEnumerator Jump(float jumpForce, float holdForce)
     {
         canJump = false;
         entity.body.linearVelocity += entity.normal*jumpForce;
@@ -47,7 +47,7 @@ public class JumpAction : MonoBehaviour
         {
             if(entity.inputs.jump && canJump == true)
             {
-                StartCoroutine(Jump());
+                StartCoroutine(Jump(entity.stats.baseJump, entity.stats.addJump));
             }
         }
     }

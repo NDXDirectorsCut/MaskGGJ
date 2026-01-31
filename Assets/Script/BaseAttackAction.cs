@@ -5,7 +5,6 @@ using UnityEngine;
 public class BaseAttackAction : MonoBehaviour
 {
     EntityBehaviour entity;
-    public int damage;
 
     // Start is called before the first frame update
     void Start()

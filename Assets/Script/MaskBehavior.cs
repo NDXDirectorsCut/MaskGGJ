@@ -27,7 +27,8 @@ public class MaskBehavior : Interactable
 
     public override void Interact(GameObject interactor)
     {
-        attachedObject = interactor;
+        if(canInteract)
+            attachedObject = interactor;
     }
 
     // Update is called once per frame

@@ -50,11 +50,9 @@ public class CameraSystem : MonoBehaviour
         Vector3 moveDir = -(transform.position-targetPos);
         float distance = moveDir.magnitude;
         //Y axis
-        if(Mathf.Abs(moveDir.y) > distanceBuffer.x)
-            transform.position += new Vector3(0,moveDir.normalized.y,0) * speed * Mathf.Pow(distance-distanceBuffer.x,distanceStrength) * Time.deltaTime;
+        transform.position += new Vector3(0,moveDir.normalized.y,0) * speed * Mathf.Pow(distance,distanceStrength) * Time.deltaTime;
         //X axis
-        if(Mathf.Abs(moveDir.x) > distanceBuffer.x)
-            transform.position += new Vector3(moveDir.normalized.x,0,0) * speed * Mathf.Pow(distance-distanceBuffer.x,distanceStrength) * Time.deltaTime;
+        transform.position += new Vector3(moveDir.normalized.x,0,0) * speed * Mathf.Pow(distance,distanceStrength) * Time.deltaTime;
     }
 
     // Update is called once per frame

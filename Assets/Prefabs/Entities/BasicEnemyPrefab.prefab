@@ -154,11 +154,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5531843e68d875a44a5119f264f6820e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: 0
-  hitRadius: 0
+  offset: 1
+  hitRadius: 2
   hitLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!114 &5825171658792179544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,6 +171,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 066a5b6fb2affc74c9fe9c942661153b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  interactRange: 0
+  layers:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1 &5252931730452264942
 GameObject:
   m_ObjectHideFlags: 0
@@ -351,7 +355,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2

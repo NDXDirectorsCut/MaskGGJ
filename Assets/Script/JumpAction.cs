@@ -5,6 +5,7 @@ using UnityEngine;
 public class JumpAction : MonoBehaviour
 {
     EntityBehaviour entity;
+    bool canJump = true;
     public float jumpForce = 10;
     public float holdForce = 5;
     public float holdTime = 0.25f;
@@ -17,20 +18,26 @@ public class JumpAction : MonoBehaviour
 
     IEnumerator Jump()
     {
-        entity.body.linearVelocity += new Vector2(0,jumpForce);
+        canJump = false;
+        entity.body.linearVelocity += entity.normal*jumpForce;
+        entity.body.position += Vector2.up * entity.groundCheckDistance/2;
         entity.grounded = false;
-        float startTime = Time.time;
         float held = 0;
         float addedForce = 0;
-        yield return new WaitForFixedUpdate();
         while(entity.inputs.jump && held<holdTime && entity.GetState() == "Idle" && entity.grounded == false)
         {
+            
             entity.body.linearVelocity += new Vector2(0,holdForce) * Time.fixedDeltaTime;
             addedForce += holdForce * Time.fixedDeltaTime;
-            held = Time.time - startTime;
+            held += Time.fixedDeltaTime;
             yield return new WaitForFixedUpdate();
         }
-        Debug.Log(addedForce);
+        while(entity.grounded == false)
+        {
+            yield return new WaitForFixedUpdate();
+        }
+        yield return new WaitForSeconds(0.25f);
+        canJump = true;
         yield return null;
     }
 
@@ -38,9 +45,8 @@ public class JumpAction : MonoBehaviour
     {
         if(entity.GetState() == "Idle" && entity.grounded == true )
         {
-            if(entity.inputs.jump)
+            if(entity.inputs.jump && canJump == true)
             {
-                StopAllCoroutines();
                 StartCoroutine(Jump());
             }
         }

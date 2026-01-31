@@ -24,13 +24,13 @@ public class MovementAction : MonoBehaviour
         else
             acceleration = force;
 
-        entity.body.linearVelocity += new Vector2(hor*acceleration,0) * deltaTime;
+        entity.body.linearVelocity += Vector2.Perpendicular(-entity.normal) * hor * acceleration * deltaTime;
     }
 
     void Decelerate(float force, float deltaTime)
     {
         float deceleration = entity.body.linearVelocity.x/speed * force;
-        entity.body.linearVelocity -= new Vector2(deceleration,0) * deltaTime;
+        entity.body.linearVelocity -= Vector2.Perpendicular(-entity.normal) * deceleration * deltaTime;
     }
 
     // Update is called once per frame

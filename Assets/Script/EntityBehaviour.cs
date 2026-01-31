@@ -21,11 +21,19 @@ public class EntityBehaviour : MonoBehaviour
     [SerializeField]
     private string entityState = "Null";
     public bool stateLock = false;
+
+    public int health = 5;
     
     [Space(10)]
     public EntityInputs inputs;
-    public List<MonoBehaviour> actionList = new List<MonoBehaviour>();
+    //public List<MonoBehaviour> actionList = new List<MonoBehaviour>();
     public bool grounded;
+    [System.NonSerialized]
+    public Vector2 normal;
+    //[System.NonSerialized]
+    public float groundCheckDistance = 0.15f;
+    [System.NonSerialized]
+    public Vector2 faceDirection = Vector2.right;
     public LayerMask collisionLayers;
 
     public bool SetState(string newState)
@@ -56,17 +64,24 @@ public class EntityBehaviour : MonoBehaviour
         {
             Collider2D col = GetComponentInChildren<Collider2D>();
             Vector2 lowestPoint = col.ClosestPoint(body.position - Vector2.up*10);
-            RaycastHit2D hit = Physics2D.Raycast(lowestPoint + Vector2.up*0.1f,-Vector2.up,0.125f,collisionLayers);
+            RaycastHit2D hit = Physics2D.Raycast(lowestPoint + Vector2.up*0.1f,-Vector2.up,groundCheckDistance,collisionLayers);
             if(hit.collider != null)
             {
-                Debug.DrawRay(lowestPoint + Vector2.up*0.1f,Vector2.up * -0.125f, Color.green);
+                Debug.DrawRay(lowestPoint + Vector2.up*0.1f,Vector2.up * -groundCheckDistance, Color.green);
                 grounded = true;
+                normal = hit.normal;
             }
             else
             {
-                Debug.DrawRay(lowestPoint + Vector2.up*0.1f,Vector2.up * -0.125f, Color.red);
+                Debug.DrawRay(lowestPoint + Vector2.up*0.1f,Vector2.up * -groundCheckDistance, Color.red);
+                normal = Vector2.up;
             }
         }
 
+        if(Mathf.Abs(body.linearVelocity.x)>0.1f)
+        {
+            faceDirection = new Vector2(body.linearVelocity.x,0).normalized;
+        }
+        Debug.DrawRay(transform.position,faceDirection,Color.blue);
     }
 }

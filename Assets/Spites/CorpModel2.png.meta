@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: c02a5018f36e97847af35da862703333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1245774078630853237
+    second: CorpModel2_0
+  - first:
+      213: 8809414688158944061
+    second: CorpModel2_1
+  - first:
+      213: 1073491575032446660
+    second: CorpModel2_2
+  - first:
+      213: 3589248812057777829
+    second: CorpModel2_3
+  - first:
+      213: -2001331046162203035
+    second: CorpModel2_4
+  - first:
+      213: 5079842667363968558
+    second: CorpModel2_5
+  - first:
+      213: -6639958153334594156
+    second: CorpModel2_6
+  - first:
+      213: -617346811430925720
+    second: CorpModel2_7
+  - first:
+      213: 5148567890841167262
+    second: CorpModel2_8
+  - first:
+      213: 2939735268082586814
+    second: CorpModel2_9
+  - first:
+      213: 6741739900196984423
+    second: CorpModel2_10
+  - first:
+      213: -5356405495104392664
+    second: CorpModel2_11
+  - first:
+      213: 8758987064135817439
+    second: CorpModel2_12
+  - first:
+      213: -493635585445900582
+    second: CorpModel2_13
+  - first:
+      213: 747061640188352711
+    second: CorpModel2_14
+  - first:
+      213: 1319786921503767240
+    second: CorpModel2_15
+  - first:
+      213: 3106523405038645817
+    second: CorpModel2_16
+  - first:
+      213: 6374557235412631865
+    second: CorpModel2_17
+  - first:
+      213: -8914172131116167082
+    second: CorpModel2_18
+  - first:
+      213: 6819949141534579809
+    second: CorpModel2_19
+  - first:
+      213: 7145550143236394214
+    second: CorpModel2_20
+  - first:
+      213: -8578935155469690069
+    second: CorpModel2_21
+  - first:
+      213: 2581755070497210185
+    second: CorpModel2_22
+  - first:
+      213: 2125982437612286909
+    second: CorpModel2_23
+  - first:
+      213: 43804871097523882
+    second: CorpModel2_24
+  - first:
+      213: -2850692887855240226
+    second: CorpModel2_25
+  - first:
+      213: 348025122990511343
+    second: CorpModel2_26
+  - first:
+      213: 5418276812816903144
+    second: CorpModel2_27
+  - first:
+      213: 532317703524074291
+    second: CorpModel2_28
+  - first:
+      213: 1648845550510631826
+    second: CorpModel2_29
+  - first:
+      213: 5574958219659703392
+    second: CorpModel2_30
+  - first:
+      213: -7407918049282324446
+    second: CorpModel2_31
+  - first:
+      213: 2754612557500651773
+    second: CorpModel2_32
+  - first:
+      213: 8963927139467300460
+    second: CorpModel2_33
+  - first:
+      213: -7706472395595432918
+    second: CorpModel2_34
+  - first:
+      213: 7525185940420873378
+    second: CorpModel2_35
+  - first:
+      213: -6872895557759266920
+    second: CorpModel2_36
+  - first:
+      213: -6780455217431336762
+    second: CorpModel2_37
+  - first:
+      213: 8902303397359321769
+    second: CorpModel2_38
+  - first:
+      213: 5619102151555103209
+    second: CorpModel2_39
+  - first:
+      213: 6361730930034246281
+    second: CorpModel2_40
+  - first:
+      213: 8404849446556776467
+    second: CorpModel2_41
+  - first:
+      213: -3445036083508304740
+    second: CorpModel2_42
+  - first:
+      213: -6736085628816263642
+    second: CorpModel2_43
+  - first:
+      213: 1149012004403834796
+    second: CorpModel2_44
+  - first:
+      213: 8806798691819270116
+    second: CorpModel2_45
+  - first:
+      213: -8160596596640184383
+    second: CorpModel2_46
+  - first:
+      213: 2228530022396342103
+    second: CorpModel2_47
+  - first:
+      213: 4958835042718982171
+    second: CorpModel2_48
+  - first:
+      213: 328008960421267779
+    second: CorpModel2_49
+  - first:
+      213: -4811337585440329013
+    second: CorpModel2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CorpModel2_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8581dc631f16bee0800000000000000
+      internalID: -1245774078630853237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b82de0cf3514a70800000000000000
+      internalID: 8809414688158944061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 322
+        width: 402
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cefe2f56eec5ee00800000000000000
+      internalID: 1073491575032446660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6523527c29fc130800000000000000
+      internalID: 3589248812057777829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7a8b5408d934e0800000000000000
+      internalID: -2001331046162203035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262a17edf93f7640800000000000000
+      internalID: 5079842667363968558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49568035d312ad3a0800000000000000
+      internalID: -6639958153334594156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8079885ebe67f0800000000000000
+      internalID: -617346811430925720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e19be733637740800000000000000
+      internalID: 5148567890841167262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 453
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb410c3a6a90cc820800000000000000
+      internalID: 2939735268082586814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766915f48b87f8d50800000000000000
+      internalID: 6741739900196984423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223a57e4993aa5b0800000000000000
+      internalID: -5356405495104392664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_12
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd89e06e35c2e8970800000000000000
+      internalID: 8758987064135817439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 463
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade4109ec014629f0800000000000000
+      internalID: -493635585445900582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_14
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c85fb88a981e5a00800000000000000
+      internalID: 747061640188352711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca307b6633d05210800000000000000
+      internalID: 1319786921503767240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_16
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 445
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932f3cbe3969c1b20800000000000000
+      internalID: 3106523405038645817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318a21280af67850800000000000000
+      internalID: 6374557235412631865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65052221daf7a4480800000000000000
+      internalID: -8914172131116167082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 443
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c166f4c9355ae50800000000000000
+      internalID: 6819949141534579809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc85c1ff71a2360800000000000000
+      internalID: 7145550143236394214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 442
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b5e13edef71f880800000000000000
+      internalID: -8578935155469690069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_22
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fbc02de8c34d320800000000000000
+      internalID: 2581755070497210185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3799853c1018d10800000000000000
+      internalID: 2125982437612286909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_24
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae13355c40ab9000800000000000000
+      internalID: 43804871097523882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_25
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe7af0ced4078d0800000000000000
+      internalID: -2850692887855240226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4d2c4610f64d400800000000000000
+      internalID: 348025122990511343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebefa2dd06913b40800000000000000
+      internalID: 5418276812816903144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333443a812c236700800000000000000
+      internalID: 532317703524074291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b6bafca40e1e610800000000000000
+      internalID: 1648845550510631826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 106
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f570a6fa3e5d40800000000000000
+      internalID: 5574958219659703392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_31
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 110
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228825378c9c13990800000000000000
+      internalID: -7407918049282324446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 106
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df818a7c6895a3620800000000000000
+      internalID: 2754612557500651773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8e6c8d34466c70800000000000000
+      internalID: 8963927139467300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3e25df2c1d0590800000000000000
+      internalID: -7706472395595432918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2accc8f1eb4de6860800000000000000
+      internalID: 7525185940420873378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f066587e19e90a0800000000000000
+      internalID: -6872895557759266920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8af8577ebf6e1a0800000000000000
+      internalID: -6780455217431336762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20b5206c55b8b70800000000000000
+      internalID: 8902303397359321769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 92
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e93314b2af0bfd40800000000000000
+      internalID: 5619102151555103209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828e413398694850800000000000000
+      internalID: 6361730930034246281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 89
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b7a47a0604a470800000000000000
+      internalID: 8404849446556776467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_42
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 80
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94a5144fe5c030d0800000000000000
+      internalID: -3445036083508304740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_43
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 89
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626fac55fcd9482a0800000000000000
+      internalID: -6736085628816263642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_44
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf662d845c12ff00800000000000000
+      internalID: 1149012004403834796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_45
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 86
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2342ffb8083a70800000000000000
+      internalID: 8806798691819270116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 92
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7000ec1acbfbe80800000000000000
+      internalID: -8160596596640184383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_47
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 82
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f2a348f345dee10800000000000000
+      internalID: 2228530022396342103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 89
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102605c23251d440800000000000000
+      internalID: 4958835042718982171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_49
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490e0169625d8400800000000000000
+      internalID: 328008960421267779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpModel2_50
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f75525f1ba3db0800000000000000
+      internalID: -4811337585440329013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CorpModel2_0: -1245774078630853237
+      CorpModel2_1: 8809414688158944061
+      CorpModel2_10: 6741739900196984423
+      CorpModel2_11: -5356405495104392664
+      CorpModel2_12: 8758987064135817439
+      CorpModel2_13: -493635585445900582
+      CorpModel2_14: 747061640188352711
+      CorpModel2_15: 1319786921503767240
+      CorpModel2_16: 3106523405038645817
+      CorpModel2_17: 6374557235412631865
+      CorpModel2_18: -8914172131116167082
+      CorpModel2_19: 6819949141534579809
+      CorpModel2_2: 1073491575032446660
+      CorpModel2_20: 7145550143236394214
+      CorpModel2_21: -8578935155469690069
+      CorpModel2_22: 2581755070497210185
+      CorpModel2_23: 2125982437612286909
+      CorpModel2_24: 43804871097523882
+      CorpModel2_25: -2850692887855240226
+      CorpModel2_26: 348025122990511343
+      CorpModel2_27: 5418276812816903144
+      CorpModel2_28: 532317703524074291
+      CorpModel2_29: 1648845550510631826
+      CorpModel2_3: 3589248812057777829
+      CorpModel2_30: 5574958219659703392
+      CorpModel2_31: -7407918049282324446
+      CorpModel2_32: 2754612557500651773
+      CorpModel2_33: 8963927139467300460
+      CorpModel2_34: -7706472395595432918
+      CorpModel2_35: 7525185940420873378
+      CorpModel2_36: -6872895557759266920
+      CorpModel2_37: -6780455217431336762
+      CorpModel2_38: 8902303397359321769
+      CorpModel2_39: 5619102151555103209
+      CorpModel2_4: -2001331046162203035
+      CorpModel2_40: 6361730930034246281
+      CorpModel2_41: 8404849446556776467
+      CorpModel2_42: -3445036083508304740
+      CorpModel2_43: -6736085628816263642
+      CorpModel2_44: 1149012004403834796
+      CorpModel2_45: 8806798691819270116
+      CorpModel2_46: -8160596596640184383
+      CorpModel2_47: 2228530022396342103
+      CorpModel2_48: 4958835042718982171
+      CorpModel2_49: 328008960421267779
+      CorpModel2_5: 5079842667363968558
+      CorpModel2_50: -4811337585440329013
+      CorpModel2_6: -6639958153334594156
+      CorpModel2_7: -617346811430925720
+      CorpModel2_8: 5148567890841167262
+      CorpModel2_9: 2939735268082586814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

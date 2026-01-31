@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 74552fbb299f51e4db56c8c427ab746c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3599928369043363340
+    second: CurModel3_0
+  - first:
+      213: -7766730148399819707
+    second: CurModel3_1
+  - first:
+      213: -8265289455293382334
+    second: CurModel3_2
+  - first:
+      213: -628291756654451249
+    second: CurModel3_3
+  - first:
+      213: -1395584369379064138
+    second: CurModel3_4
+  - first:
+      213: 1583479886967028889
+    second: CurModel3_5
+  - first:
+      213: 8505929227138037494
+    second: CurModel3_6
+  - first:
+      213: -3222952503010759425
+    second: CurModel3_7
+  - first:
+      213: 260634865718176236
+    second: CurModel3_8
+  - first:
+      213: 3977001437729939032
+    second: CurModel3_9
+  - first:
+      213: 4907537693062651450
+    second: CurModel3_10
+  - first:
+      213: -3985434159162172763
+    second: CurModel3_11
+  - first:
+      213: -4801871372616030073
+    second: CurModel3_12
+  - first:
+      213: -8087012577647377596
+    second: CurModel3_13
+  - first:
+      213: 7231426021034491161
+    second: CurModel3_14
+  - first:
+      213: -3831016874584825851
+    second: CurModel3_15
+  - first:
+      213: 1212502807850051938
+    second: CurModel3_16
+  - first:
+      213: 3059196823830919394
+    second: CurModel3_17
+  - first:
+      213: 4855606812375064915
+    second: CurModel3_18
+  - first:
+      213: 1189898195518649228
+    second: CurModel3_19
+  - first:
+      213: -7647957199564212924
+    second: CurModel3_20
+  - first:
+      213: -2859880353489721881
+    second: CurModel3_21
+  - first:
+      213: -131578800126763962
+    second: CurModel3_22
+  - first:
+      213: -7841133167646116306
+    second: CurModel3_23
+  - first:
+      213: 8655717810394048360
+    second: CurModel3_24
+  - first:
+      213: -3117730741529269022
+    second: CurModel3_25
+  - first:
+      213: -6486000519007792213
+    second: CurModel3_26
+  - first:
+      213: -3038683753501485018
+    second: CurModel3_27
+  - first:
+      213: -9065823239097402081
+    second: CurModel3_28
+  - first:
+      213: -3042912244581074970
+    second: CurModel3_29
+  - first:
+      213: -1966884229745302924
+    second: CurModel3_30
+  - first:
+      213: 1045688043665793156
+    second: CurModel3_31
+  - first:
+      213: -1412419951063169858
+    second: CurModel3_32
+  - first:
+      213: 7170975595554258362
+    second: CurModel3_33
+  - first:
+      213: -4684303674677527083
+    second: CurModel3_34
+  - first:
+      213: -4664628147431354203
+    second: CurModel3_35
+  - first:
+      213: 1250992431322840736
+    second: CurModel3_36
+  - first:
+      213: -551873173030642263
+    second: CurModel3_37
+  - first:
+      213: 6222769185123630939
+    second: CurModel3_38
+  - first:
+      213: 3443572545732416667
+    second: CurModel3_39
+  - first:
+      213: -2826394126421965835
+    second: CurModel3_40
+  - first:
+      213: 7065258533729131622
+    second: CurModel3_41
+  - first:
+      213: 8871747878266527830
+    second: CurModel3_42
+  - first:
+      213: 7637982040001169573
+    second: CurModel3_43
+  - first:
+      213: -2266883399748768161
+    second: CurModel3_44
+  - first:
+      213: -7091112444038133528
+    second: CurModel3_45
+  - first:
+      213: 7360927575736286511
+    second: CurModel3_46
+  - first:
+      213: -5792404307541873175
+    second: CurModel3_47
+  - first:
+      213: 7484892675524404696
+    second: CurModel3_48
+  - first:
+      213: -8435282841980602462
+    second: CurModel3_49
+  - first:
+      213: 6604495799153212236
+    second: CurModel3_50
+  - first:
+      213: 8940230237739833236
+    second: CurModel3_51
+  - first:
+      213: -910036993460923215
+    second: CurModel3_52
+  - first:
+      213: 3212258270866045460
+    second: CurModel3_53
+  - first:
+      213: 2839220801844719433
+    second: CurModel3_54
+  - first:
+      213: -5658308977671533899
+    second: CurModel3_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CurModel3_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c065ea547c385f130800000000000000
+      internalID: 3599928369043363340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 845
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544df467418073490800000000000000
+      internalID: -7766730148399819707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 675
+        width: 132
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c473280bcb4d80800000000000000
+      internalID: -8265289455293382334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc52e45e9fbd747f0800000000000000
+      internalID: -628291756654451249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6c2110963e1ace0800000000000000
+      internalID: -1395584369379064138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 495
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c35ab4196a9f510800000000000000
+      internalID: 1583479886967028889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 499
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6fc24d0912b0670800000000000000
+      internalID: 8505929227138037494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 463
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc661246c5c543d0800000000000000
+      internalID: -3222952503010759425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a63b8706fd9300800000000000000
+      internalID: 260634865718176236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5c1f8cb5213730800000000000000
+      internalID: 3977001437729939032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed6d4d7831b1440800000000000000
+      internalID: 4907537693062651450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5e6b7fb4e0b8c0800000000000000
+      internalID: -3985434159162172763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 443
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788aa129d635c5db0800000000000000
+      internalID: -4801871372616030073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443463f48e825cf80800000000000000
+      internalID: -8087012577647377596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91df64307af2b5460800000000000000
+      internalID: 7231426021034491161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 447
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50028dd337e75dac0800000000000000
+      internalID: -3831016874584825851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 453
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e01f21eca3d010800000000000000
+      internalID: 1212502807850051938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8f17e8d43747a20800000000000000
+      internalID: 3059196823830919394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35125947ba4926340800000000000000
+      internalID: 4855606812375064915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8374ceba1e538010800000000000000
+      internalID: 1189898195518649228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457596927ffcd590800000000000000
+      internalID: -7647957199564212924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_21
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5602688f9af48d0800000000000000
+      internalID: -2859880353489721881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd87647c98c2ef0800000000000000
+      internalID: -131578800126763962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e267be99de2be2390800000000000000
+      internalID: -7841133167646116306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_24
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 445
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672f841d794f1870800000000000000
+      internalID: 8655717810394048360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec25d5b8689bb4d0800000000000000
+      internalID: -3117730741529269022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39a8b64e81df5a0800000000000000
+      internalID: -6486000519007792213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 442
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281bcfc93d64d5d0800000000000000
+      internalID: -3038683753501485018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_28
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3e1dfbc9bf2280800000000000000
+      internalID: -9065823239097402081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fe038f6765c5d0800000000000000
+      internalID: -3042912244581074970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_30
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a6bbc63934b4e0800000000000000
+      internalID: -1966884229745302924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a2944cb7038e00800000000000000
+      internalID: 1045688043665793156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 239
+        width: 286
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4843fa983166ce0800000000000000
+      internalID: -1412419951063169858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb10a8f4c648360800000000000000
+      internalID: 7170975595554258362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf9ca50a20efeb0800000000000000
+      internalID: -4684303674677527083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 106
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0d0170a69e34fb0800000000000000
+      internalID: -4664628147431354203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 110
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae33bdfcfa6c5110800000000000000
+      internalID: 1250992431322840736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 106
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add078e54a5758f0800000000000000
+      internalID: -551873173030642263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7a8eaa97bb5650800000000000000
+      internalID: 6222769185123630939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b941baa4cf60acf20800000000000000
+      internalID: 3443572545732416667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34e535481a6c8d0800000000000000
+      internalID: -2826394126421965835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd83df337dc0260800000000000000
+      internalID: 7065258533729131622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e6e4d0b7ce1b70800000000000000
+      internalID: 8871747878266527830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8451792309ff960800000000000000
+      internalID: 7637982040001169573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 92
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eaeb2fe896a80e0800000000000000
+      internalID: -2266883399748768161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e841ce6dce479d90800000000000000
+      internalID: -7091112444038133528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_46
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 89
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d732951a4472660800000000000000
+      internalID: 7360927575736286511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 80
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed2685c8fe3d9fa0800000000000000
+      internalID: -5792404307541873175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_48
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 89
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52e825b3eafd760800000000000000
+      internalID: 7484892675524404696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_49
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77ccf72fadfea80800000000000000
+      internalID: -8435282841980602462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_50
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 86
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b361defe1e7ab50800000000000000
+      internalID: 6604495799153212236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 92
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49750baa804121c70800000000000000
+      internalID: 8940230237739833236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_52
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 82
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41c401d26ee53f0800000000000000
+      internalID: -910036993460923215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_53
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 89
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af7c9c0eb349c20800000000000000
+      internalID: 3212258270866045460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_54
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94faad4c640f66720800000000000000
+      internalID: 2839220801844719433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurModel3_55
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0c7cb6f5a971b0800000000000000
+      internalID: -5658308977671533899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CurModel3_0: 3599928369043363340
+      CurModel3_1: -7766730148399819707
+      CurModel3_10: 4907537693062651450
+      CurModel3_11: -3985434159162172763
+      CurModel3_12: -4801871372616030073
+      CurModel3_13: -8087012577647377596
+      CurModel3_14: 7231426021034491161
+      CurModel3_15: -3831016874584825851
+      CurModel3_16: 1212502807850051938
+      CurModel3_17: 3059196823830919394
+      CurModel3_18: 4855606812375064915
+      CurModel3_19: 1189898195518649228
+      CurModel3_2: -8265289455293382334
+      CurModel3_20: -7647957199564212924
+      CurModel3_21: -2859880353489721881
+      CurModel3_22: -131578800126763962
+      CurModel3_23: -7841133167646116306
+      CurModel3_24: 8655717810394048360
+      CurModel3_25: -3117730741529269022
+      CurModel3_26: -6486000519007792213
+      CurModel3_27: -3038683753501485018
+      CurModel3_28: -9065823239097402081
+      CurModel3_29: -3042912244581074970
+      CurModel3_3: -628291756654451249
+      CurModel3_30: -1966884229745302924
+      CurModel3_31: 1045688043665793156
+      CurModel3_32: -1412419951063169858
+      CurModel3_33: 7170975595554258362
+      CurModel3_34: -4684303674677527083
+      CurModel3_35: -4664628147431354203
+      CurModel3_36: 1250992431322840736
+      CurModel3_37: -551873173030642263
+      CurModel3_38: 6222769185123630939
+      CurModel3_39: 3443572545732416667
+      CurModel3_4: -1395584369379064138
+      CurModel3_40: -2826394126421965835
+      CurModel3_41: 7065258533729131622
+      CurModel3_42: 8871747878266527830
+      CurModel3_43: 7637982040001169573
+      CurModel3_44: -2266883399748768161
+      CurModel3_45: -7091112444038133528
+      CurModel3_46: 7360927575736286511
+      CurModel3_47: -5792404307541873175
+      CurModel3_48: 7484892675524404696
+      CurModel3_49: -8435282841980602462
+      CurModel3_5: 1583479886967028889
+      CurModel3_50: 6604495799153212236
+      CurModel3_51: 8940230237739833236
+      CurModel3_52: -910036993460923215
+      CurModel3_53: 3212258270866045460
+      CurModel3_54: 2839220801844719433
+      CurModel3_55: -5658308977671533899
+      CurModel3_6: 8505929227138037494
+      CurModel3_7: -3222952503010759425
+      CurModel3_8: 260634865718176236
+      CurModel3_9: 3977001437729939032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

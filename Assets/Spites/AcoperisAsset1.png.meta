@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 326465fce68a26140a51760afc8c3218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6150088534576939547
+    second: AcoperisAsset1_0
+  - first:
+      213: -8457416222367468368
+    second: AcoperisAsset1_1
+  - first:
+      213: 1798568845379564664
+    second: AcoperisAsset1_2
+  - first:
+      213: 7205961994314037741
+    second: AcoperisAsset1_3
+  - first:
+      213: 6915018028573549054
+    second: AcoperisAsset1_4
+  - first:
+      213: 4517104499439476669
+    second: AcoperisAsset1_5
+  - first:
+      213: -5721446550461200753
+    second: AcoperisAsset1_6
+  - first:
+      213: -6784927864179397084
+    second: AcoperisAsset1_7
+  - first:
+      213: 1892234727087522694
+    second: AcoperisAsset1_8
+  - first:
+      213: 8882032727061205986
+    second: AcoperisAsset1_9
+  - first:
+      213: 1991078259357597779
+    second: AcoperisAsset1_10
+  - first:
+      213: 550172886002020698
+    second: AcoperisAsset1_11
+  - first:
+      213: 8762042814429116717
+    second: AcoperisAsset1_12
+  - first:
+      213: -3810579643364074570
+    second: AcoperisAsset1_13
+  - first:
+      213: 3880530384086028533
+    second: AcoperisAsset1_14
+  - first:
+      213: 1134093764086280587
+    second: AcoperisAsset1_15
+  - first:
+      213: -1132265012147705242
+    second: AcoperisAsset1_16
+  - first:
+      213: 4228646174937669309
+    second: AcoperisAsset1_17
+  - first:
+      213: -4549311225353653791
+    second: AcoperisAsset1_18
+  - first:
+      213: 7384216843018145210
+    second: AcoperisAsset1_19
+  - first:
+      213: 8798521198181098817
+    second: AcoperisAsset1_20
+  - first:
+      213: 7372644001113522280
+    second: AcoperisAsset1_21
+  - first:
+      213: -2797783320013714431
+    second: AcoperisAsset1_22
+  - first:
+      213: 6852461438194655986
+    second: AcoperisAsset1_23
+  - first:
+      213: 2295674166472241760
+    second: AcoperisAsset1_24
+  - first:
+      213: 9199443174235172619
+    second: AcoperisAsset1_25
+  - first:
+      213: -2051542395649065327
+    second: AcoperisAsset1_26
+  - first:
+      213: -5854828918367349697
+    second: AcoperisAsset1_27
+  - first:
+      213: -7555842265653031101
+    second: AcoperisAsset1_28
+  - first:
+      213: 147882802524661949
+    second: AcoperisAsset1_29
+  - first:
+      213: 3950182500220054368
+    second: AcoperisAsset1_30
+  - first:
+      213: 1852983767691299185
+    second: AcoperisAsset1_31
+  - first:
+      213: 717475302843413963
+    second: AcoperisAsset1_32
+  - first:
+      213: -5840817836689966831
+    second: AcoperisAsset1_33
+  - first:
+      213: 4782767961308121849
+    second: AcoperisAsset1_34
+  - first:
+      213: 300029472316529476
+    second: AcoperisAsset1_35
+  - first:
+      213: -8801488337242658671
+    second: AcoperisAsset1_36
+  - first:
+      213: 5095292813557046040
+    second: AcoperisAsset1_37
+  - first:
+      213: -2435099439146860736
+    second: AcoperisAsset1_38
+  - first:
+      213: -4081885946270561525
+    second: AcoperisAsset1_39
+  - first:
+      213: -1847831067833817086
+    second: AcoperisAsset1_40
+  - first:
+      213: 185559486139111017
+    second: AcoperisAsset1_41
+  - first:
+      213: -1039081183299754545
+    second: AcoperisAsset1_42
+  - first:
+      213: 3334679293829223889
+    second: AcoperisAsset1_43
+  - first:
+      213: -650969202835422891
+    second: AcoperisAsset1_44
+  - first:
+      213: -436455302967425389
+    second: AcoperisAsset1_45
+  - first:
+      213: -3031452861665480309
+    second: AcoperisAsset1_46
+  - first:
+      213: 2735043331306307881
+    second: AcoperisAsset1_47
+  - first:
+      213: -6951358368389707997
+    second: AcoperisAsset1_48
+  - first:
+      213: -2920121654381994722
+    second: AcoperisAsset1_49
+  - first:
+      213: -5109875832717986433
+    second: AcoperisAsset1_50
+  - first:
+      213: 7456327427086732026
+    second: AcoperisAsset1_51
+  - first:
+      213: -434083841313278946
+    second: AcoperisAsset1_52
+  - first:
+      213: 7896649926082322192
+    second: AcoperisAsset1_53
+  - first:
+      213: -7833350077174988784
+    second: AcoperisAsset1_54
+  - first:
+      213: 8312879914283086360
+    second: AcoperisAsset1_55
+  - first:
+      213: -5048822750047984073
+    second: AcoperisAsset1_56
+  - first:
+      213: 1656648656057406237
+    second: AcoperisAsset1_57
+  - first:
+      213: 1701055611530816610
+    second: AcoperisAsset1_58
+  - first:
+      213: 1117387872493971192
+    second: AcoperisAsset1_59
+  - first:
+      213: -3128886770247455324
+    second: AcoperisAsset1_60
+  - first:
+      213: -3900013452388612862
+    second: AcoperisAsset1_61
+  - first:
+      213: -4630797603505607824
+    second: AcoperisAsset1_62
+  - first:
+      213: -197258204223013951
+    second: AcoperisAsset1_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcoperisAsset1_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 976
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb657ff0f76aaa0800000000000000
+      internalID: -6150088534576939547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 845
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4392c41c831aa80800000000000000
+      internalID: -8457416222367468368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 618
+        width: 132
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874feece5dcc5f810800000000000000
+      internalID: 1798568845379564664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 665
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9bd084148b00460800000000000000
+      internalID: 7205961994314037741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16c88724417ff50800000000000000
+      internalID: 6915018028573549054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 548
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf986e0c9affae30800000000000000
+      internalID: 4517104499439476669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 534
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8640660da65990b0800000000000000
+      internalID: -5721446550461200753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 543
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eefec3e0817d1a0800000000000000
+      internalID: -6784927864179397084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 548
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c5b37571924a10800000000000000
+      internalID: 1892234727087522694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 535
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e390ebc4b1534b70800000000000000
+      internalID: 8882032727061205986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 529
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3504301b02bb1ab10800000000000000
+      internalID: 1991078259357597779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 482
+        width: 212
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b33b235b92a700800000000000000
+      internalID: 550172886002020698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 463
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29bfc43487099970800000000000000
+      internalID: 8762042814429116717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb13f0f00a1e1bc0800000000000000
+      internalID: -3810579643364074570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 459
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0de8b03d96ad530800000000000000
+      internalID: 3880530384086028533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 466
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81395e054c1dbf00800000000000000
+      internalID: 1134093764086280587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_16
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 463
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a255f68f26940f0800000000000000
+      internalID: -1132265012147705242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 456
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe59f1ba4b2faa30800000000000000
+      internalID: 4228646174937669309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_18
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 458
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e139183b899dd0c0800000000000000
+      internalID: -4549311225353653791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8d8078120a7660800000000000000
+      internalID: 7384216843018145210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 460
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452456c960aa1a70800000000000000
+      internalID: 8798521198181098817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86049c538a4e05660800000000000000
+      internalID: 7372644001113522280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc11cc4e64c29d0800000000000000
+      internalID: -2797783320013714431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a7a44f55d81f50800000000000000
+      internalID: 6852461438194655986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627e9ccd7fdbdf10800000000000000
+      internalID: 2295674166472241760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0feda383dcfaaf70800000000000000
+      internalID: 9199443174235172619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 443
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efea98f057783e0800000000000000
+      internalID: -2051542395649065327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3497047e187fbea0800000000000000
+      internalID: -5854828918367349697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 88
+        width: 303
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4ed0fd71442790800000000000000
+      internalID: -7555842265653031101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_29
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 452
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82fd810a26d0200800000000000000
+      internalID: 147882802524661949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 442
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba4931e0ed1d630800000000000000
+      internalID: 3950182500220054368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_31
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 456
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790ecf4bee17b910800000000000000
+      internalID: 1852983767691299185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_32
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 451
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5f8119cfbf4f900800000000000000
+      internalID: 717475302843413963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_33
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119345e9f1f31fea0800000000000000
+      internalID: -5840817836689966831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_34
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fac3e0ee1ecf5240800000000000000
+      internalID: 4782767961308121849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 445
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b1397273be92400800000000000000
+      internalID: 300029472316529476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19868e35df4dad580800000000000000
+      internalID: -8801488337242658671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 445
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1ba261dd16b640800000000000000
+      internalID: 5095292813557046040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 444
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff5e836f9c43ed0800000000000000
+      internalID: -2435099439146860736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 437
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b42eecb5a3a57c0800000000000000
+      internalID: -4081885946270561525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a5dc1f6f2b56e0800000000000000
+      internalID: -1847831067833817086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96696089e5d339200800000000000000
+      internalID: 185559486139111017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc520a84b217491f0800000000000000
+      internalID: -1039081183299754545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 106
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d59a8c5629274e20800000000000000
+      internalID: 3334679293829223889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551864185fa47f6f0800000000000000
+      internalID: -650969202835422891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3968a42e63661f9f0800000000000000
+      internalID: -436455302967425389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8176130fad1ee5d0800000000000000
+      internalID: -3031452861665480309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92140df3b63d4f520800000000000000
+      internalID: 2735043331306307881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32741b1d460d78f90800000000000000
+      internalID: -6951358368389707997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d92a9a3d4a977d0800000000000000
+      internalID: -2920121654381994722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75bd70e0031619b0800000000000000
+      internalID: -5109875832717986433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 92
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac1842a423a7760800000000000000
+      internalID: 7456327427086732026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_52
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 97
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14f8c3db03d9f9f0800000000000000
+      internalID: -434083841313278946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 85
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f50cff449869d60800000000000000
+      internalID: 7896649926082322192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_54
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 89
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010c4b09b995a4390800000000000000
+      internalID: -7833350077174988784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_55
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b25f0d384d5370800000000000000
+      internalID: 8312879914283086360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_56
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 86
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736aa79657afee9b0800000000000000
+      internalID: -5048822750047984073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 92
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d131ee5ec299df610800000000000000
+      internalID: 1656648656057406237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 82
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26caa7ce01d5b9710800000000000000
+      internalID: 1701055611530816610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_59
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 82
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f625509952c18f00800000000000000
+      internalID: 1117387872493971192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_60
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 89
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2bfc5f06f394d0800000000000000
+      internalID: -3128886770247455324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205c12f9d6e50e9c0800000000000000
+      internalID: -3900013452388612862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_62
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b61585d1a1cbfb0800000000000000
+      internalID: -4630797603505607824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcoperisAsset1_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb714855b2334df0800000000000000
+      internalID: -197258204223013951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AcoperisAsset1_0: -6150088534576939547
+      AcoperisAsset1_1: -8457416222367468368
+      AcoperisAsset1_10: 1991078259357597779
+      AcoperisAsset1_11: 550172886002020698
+      AcoperisAsset1_12: 8762042814429116717
+      AcoperisAsset1_13: -3810579643364074570
+      AcoperisAsset1_14: 3880530384086028533
+      AcoperisAsset1_15: 1134093764086280587
+      AcoperisAsset1_16: -1132265012147705242
+      AcoperisAsset1_17: 4228646174937669309
+      AcoperisAsset1_18: -4549311225353653791
+      AcoperisAsset1_19: 7384216843018145210
+      AcoperisAsset1_2: 1798568845379564664
+      AcoperisAsset1_20: 8798521198181098817
+      AcoperisAsset1_21: 7372644001113522280
+      AcoperisAsset1_22: -2797783320013714431
+      AcoperisAsset1_23: 6852461438194655986
+      AcoperisAsset1_24: 2295674166472241760
+      AcoperisAsset1_25: 9199443174235172619
+      AcoperisAsset1_26: -2051542395649065327
+      AcoperisAsset1_27: -5854828918367349697
+      AcoperisAsset1_28: -7555842265653031101
+      AcoperisAsset1_29: 147882802524661949
+      AcoperisAsset1_3: 7205961994314037741
+      AcoperisAsset1_30: 3950182500220054368
+      AcoperisAsset1_31: 1852983767691299185
+      AcoperisAsset1_32: 717475302843413963
+      AcoperisAsset1_33: -5840817836689966831
+      AcoperisAsset1_34: 4782767961308121849
+      AcoperisAsset1_35: 300029472316529476
+      AcoperisAsset1_36: -8801488337242658671
+      AcoperisAsset1_37: 5095292813557046040
+      AcoperisAsset1_38: -2435099439146860736
+      AcoperisAsset1_39: -4081885946270561525
+      AcoperisAsset1_4: 6915018028573549054
+      AcoperisAsset1_40: -1847831067833817086
+      AcoperisAsset1_41: 185559486139111017
+      AcoperisAsset1_42: -1039081183299754545
+      AcoperisAsset1_43: 3334679293829223889
+      AcoperisAsset1_44: -650969202835422891
+      AcoperisAsset1_45: -436455302967425389
+      AcoperisAsset1_46: -3031452861665480309
+      AcoperisAsset1_47: 2735043331306307881
+      AcoperisAsset1_48: -6951358368389707997
+      AcoperisAsset1_49: -2920121654381994722
+      AcoperisAsset1_5: 4517104499439476669
+      AcoperisAsset1_50: -5109875832717986433
+      AcoperisAsset1_51: 7456327427086732026
+      AcoperisAsset1_52: -434083841313278946
+      AcoperisAsset1_53: 7896649926082322192
+      AcoperisAsset1_54: -7833350077174988784
+      AcoperisAsset1_55: 8312879914283086360
+      AcoperisAsset1_56: -5048822750047984073
+      AcoperisAsset1_57: 1656648656057406237
+      AcoperisAsset1_58: 1701055611530816610
+      AcoperisAsset1_59: 1117387872493971192
+      AcoperisAsset1_6: -5721446550461200753
+      AcoperisAsset1_60: -3128886770247455324
+      AcoperisAsset1_61: -3900013452388612862
+      AcoperisAsset1_62: -4630797603505607824
+      AcoperisAsset1_63: -197258204223013951
+      AcoperisAsset1_7: -6784927864179397084
+      AcoperisAsset1_8: 1892234727087522694
+      AcoperisAsset1_9: 8882032727061205986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

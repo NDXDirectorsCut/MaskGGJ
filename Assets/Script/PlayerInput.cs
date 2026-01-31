@@ -5,26 +5,30 @@ using UnityEngine;
 public class PlayerInput : MonoBehaviour
 {
     EntityBehaviour entity;
+    private Coroutine buffer;
     // Start is called before the first frame update
     void Start()
     {
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
-    float BufferAxis()
-    {
-        return 0;
-    }
+    // float BufferAxis()
+    // {
+    //     return 0;
+    // }
 
-    bool BufferButton(string inputCall)
-    {
-        return false;
-    }
+    // bool BufferButton(string inputCall)
+    // {
+    //     bool value = Input.GetButton(inputCall);
+    //     buffer = StartCoroutine(Buffer());
+    //     return value;
+    // }
 
-    IEnumerator Buffer()
-    {
-        yield return null;
-    }
+    // IEnumerator Buffer()
+    // {
+    //     yield return new WaitForFixedUpdate();
+    //     buffer = null;
+    // }
 
     // Update is called once per frame
     void Update()

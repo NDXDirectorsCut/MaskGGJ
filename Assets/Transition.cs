@@ -6,6 +6,6 @@ public class Transition : MonoBehaviour
 {
     public void Playgame()
     {
-        SceneManager.LoadSceneAsync(3);
+        SceneManager.LoadSceneAsync(1);
     }
 }

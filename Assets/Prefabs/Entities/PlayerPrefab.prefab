@@ -45,7 +45,8 @@ GameObject:
   - component: {fileID: 5591887754274973211}
   - component: {fileID: 3949232169133227213}
   - component: {fileID: 9132614753194326793}
-  m_Layer: 3
+  - component: {fileID: 4727426189423515589}
+  m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -164,12 +165,34 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
   m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+--- !u!114 &4727426189423515589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4763272254319522690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889f93db0739fe241a5a9701b9c5702c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraState: 0
+  followTarget: {fileID: 7803192358954704640}
+  fixedTarget: {fileID: 0}
+  yOffset: 2.5
+  speed: 0.5
+  distanceBuffer: {x: 2, y: 2}
+  distanceStrength: 2
+  layers:
+    serializedVersion: 2
+    m_Bits: 1
 --- !u!1 &5135379239250219174
 GameObject:
   m_ObjectHideFlags: 0
@@ -183,6 +206,8 @@ GameObject:
   - component: {fileID: 7938902381426394877}
   - component: {fileID: 4345298684688854480}
   - component: {fileID: 1500650928845719000}
+  - component: {fileID: 6338314542512732343}
+  - component: {fileID: 2681570269711346021}
   m_Layer: 3
   m_Name: Character
   m_TagString: Untagged
@@ -199,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 5135379239250219174}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.66, y: -1.12, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -209,7 +234,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &2229200060154822463
 Rigidbody2D:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -220,19 +245,19 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 0946bb59010a8b64bae57a7422088abc, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!114 &7938902381426394877
 MonoBehaviour:
@@ -246,8 +271,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 495a3c2a238e96647a8336ccf76b5b88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  entityState: 
+  entityState: Idle
   stateLock: 0
+  stats:
+    health: 5
+    baseSpeed: 6
+    accel: 40
+    decel: 60
+    sprintSpeed: 12
+    baseJump: 4
+    addJump: 35
+    baseDamage: 1
+    attackCooldown: 0
   inputs:
     horizontal: 0
     vertical: 0
@@ -256,9 +291,8 @@ MonoBehaviour:
     special1: 0
     special2: 0
     interact: 0
-  actionList:
-  - {fileID: 1500650928845719000}
   grounded: 0
+  groundCheckDistance: 0.2
   collisionLayers:
     serializedVersion: 2
     m_Bits: 1
@@ -286,9 +320,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7ce39f9f6907e24ca4183e1a276fe6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  startAccel: 5
-  deceleration: 25
+--- !u!114 &6338314542512732343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5135379239250219174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3fa0c14122a554cafdd5c9f2e2baac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  holdTime: 0.1
+--- !u!114 &2681570269711346021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5135379239250219174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5531843e68d875a44a5119f264f6820e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8662139336958315950
 GameObject:
   m_ObjectHideFlags: 0
@@ -329,6 +385,7 @@ CapsuleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8662139336958315950}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -352,7 +409,8 @@ CapsuleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1, y: 2}
   m_Direction: 0
@@ -366,6 +424,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2761382804042067280}
   - component: {fileID: 1617429995006276896}
+  - component: {fileID: 22305862495339502}
   m_Layer: 3
   m_Name: Visual
   m_TagString: Untagged
@@ -405,6 +464,9 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -440,3 +502,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &22305862495339502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8753201475886144463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: badf2b771e5d56541921aaf917739e4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

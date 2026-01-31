@@ -6,8 +6,6 @@ public class JumpAction : MonoBehaviour
 {
     EntityBehaviour entity;
     bool canJump = true;
-    public float jumpForce = 10;
-    public float holdForce = 5;
     public float holdTime = 0.25f;
 
     // Start is called before the first frame update
@@ -24,6 +22,7 @@ public class JumpAction : MonoBehaviour
         entity.grounded = false;
         float held = 0;
         float addedForce = 0;
+        yield return new WaitForFixedUpdate();
         while(entity.inputs.jump && held<holdTime && entity.GetState() == "Idle" && entity.grounded == false)
         {
             

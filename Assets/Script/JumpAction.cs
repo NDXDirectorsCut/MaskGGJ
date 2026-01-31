@@ -40,7 +40,7 @@ public class JumpAction : MonoBehaviour
         yield return null;
     }
 
-    void FixedUpdate()
+    void Update()
     {
         if(entity.GetState() == "Idle" && entity.grounded == true )
         {

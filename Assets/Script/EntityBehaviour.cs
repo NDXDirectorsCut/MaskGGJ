@@ -24,8 +24,9 @@ public class EntityStats
     public float sprintSpeed = 12;
     public float baseJump = 4;
     public float addJump = 35;
-    public float baseDamage = 1;
-    public float attackCooldown;
+    public int baseDamage = 1;
+    public float attackCooldown = 0.5f;
+    public float knockback = 20f;
 }
 
 public class EntityBehaviour : MonoBehaviour
@@ -71,7 +72,7 @@ public class EntityBehaviour : MonoBehaviour
 
     void FixedUpdate()
     {
-        SetState("Idle");
+        //SetState("Idle");
         grounded = false;
 
         if(GetComponentInChildren<Collider2D>())
@@ -96,6 +97,16 @@ public class EntityBehaviour : MonoBehaviour
         {
             faceDirection = new Vector2(body.linearVelocity.x,0).normalized;
         }
+
+        if(stats.health<=0)
+        {
+            stateLock = true;
+            entityState = "Dead";
+            Destroy(gameObject,2.0f);
+            body.linearVelocity = new Vector2(Mathf.Lerp(body.linearVelocity.x,0,0.2f),body.linearVelocity.y);
+            Collider2D col = transform.root.GetComponentInChildren<Collider2D>();
+            col.enabled = false;
+        }   
         Debug.DrawRay(transform.position,faceDirection,Color.blue);
     }
 }

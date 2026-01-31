@@ -208,6 +208,7 @@ GameObject:
   - component: {fileID: 1500650928845719000}
   - component: {fileID: 6338314542512732343}
   - component: {fileID: 2681570269711346021}
+  - component: {fileID: 4930072579239147299}
   m_Layer: 3
   m_Name: Character
   m_TagString: Untagged
@@ -281,8 +282,10 @@ MonoBehaviour:
     sprintSpeed: 12
     baseJump: 4
     addJump: 35
+    baseDash: 20
     baseDamage: 1
     attackCooldown: 0
+    knockback: 20
   inputs:
     horizontal: 0
     vertical: 0
@@ -345,6 +348,50 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5531843e68d875a44a5119f264f6820e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  offset: 0
+  hitRadius: 0
+  hitLayers:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!114 &4930072579239147299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5135379239250219174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6290185db1d9ea345bfc7768030e7deb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  entityState: Null
+  stateLock: 0
+  stats:
+    health: 5
+    baseSpeed: 6
+    accel: 40
+    decel: 60
+    sprintSpeed: 12
+    baseJump: 4
+    addJump: 35
+    baseDash: 20
+    baseDamage: 1
+    attackCooldown: 0.5
+    knockback: 20
+  inputs:
+    horizontal: 0
+    vertical: 0
+    jump: 0
+    baseAttack: 0
+    special1: 0
+    special2: 0
+    interact: 0
+  grounded: 0
+  groundCheckDistance: 0.15
+  collisionLayers:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1 &8662139336958315950
 GameObject:
   m_ObjectHideFlags: 0

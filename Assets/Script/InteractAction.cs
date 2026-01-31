@@ -36,7 +36,7 @@ public class InteractAction : MonoBehaviour
         if(entity.inputs.interact)
         {
             Interactable interactObj = GetInteractable();
-            if(interactObj != null);
+            if(interactObj != null)
             {
                 interactObj.Interact(gameObject);
             }

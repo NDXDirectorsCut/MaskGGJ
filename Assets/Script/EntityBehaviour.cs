@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 [System.Serializable]
 public class EntityInputs
@@ -24,6 +25,7 @@ public class EntityStats
     public float sprintSpeed = 12;
     public float baseJump = 4;
     public float addJump = 35;
+    public float baseDash = 20;
     public int baseDamage = 1;
     public float attackCooldown = 0.5f;
     public float knockback = 20f;

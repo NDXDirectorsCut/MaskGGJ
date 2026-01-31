@@ -11,6 +11,21 @@ public class PlayerInput : MonoBehaviour
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
+    float BufferAxis()
+    {
+        return 0;
+    }
+
+    bool BufferButton(string inputCall)
+    {
+        return false;
+    }
+
+    IEnumerator Buffer()
+    {
+        yield return null;
+    }
+
     // Update is called once per frame
     void Update()
     {

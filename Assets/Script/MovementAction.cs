@@ -15,27 +15,22 @@ public class MovementAction : MonoBehaviour
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
-    void Move(float hor, float deltaTime)
+    void Move(float force, float hor, float deltaTime)
     {
         float acceleration;
-        float currentSpeed = entity.body.velocity.x;
+        float currentSpeed = entity.body.linearVelocity.x;
         if(currentSpeed*hor>0)
-            acceleration = (1-(Mathf.Abs(entity.body.velocity.x)/speed)) * startAccel;
+            acceleration = (1-(Mathf.Abs(currentSpeed)/speed)) * force;
         else
-            acceleration = startAccel;
+            acceleration = force;
 
-        entity.body.velocity += new Vector2(hor*acceleration,0) * deltaTime;
+        entity.body.linearVelocity += new Vector2(hor*acceleration,0) * deltaTime;
     }
 
-    void Decelerate(float deltaTime)
+    void Decelerate(float force, float deltaTime)
     {
-        float deceleration = entity.body.velocity.x/speed * startDecel;
-        entity.body.velocity -= new Vector2(deceleration,0) * deltaTime;
-    }
-
-    void AirMove(float deltaTime)
-    {
-        
+        float deceleration = entity.body.linearVelocity.x/speed * force;
+        entity.body.linearVelocity -= new Vector2(deceleration,0) * deltaTime;
     }
 
     // Update is called once per frame
@@ -48,16 +43,23 @@ public class MovementAction : MonoBehaviour
             {
                 if(entity.inputs.horizontal!=0)
                 {
-                    Move(entity.inputs.horizontal,Time.fixedDeltaTime);
+                    Move(startAccel,entity.inputs.horizontal,Time.fixedDeltaTime);
                 }
                 else
                 {
-                    Decelerate(Time.fixedDeltaTime);
+                    Decelerate(startDecel, Time.fixedDeltaTime);
                 }
             }
             else
             {
-
+                if(entity.inputs.horizontal!=0)
+                {
+                    Move(startAccel/2,entity.inputs.horizontal,Time.fixedDeltaTime);
+                }
+                else
+                {
+                    Decelerate(startDecel/10, Time.fixedDeltaTime);
+                }
             }
         }
     }

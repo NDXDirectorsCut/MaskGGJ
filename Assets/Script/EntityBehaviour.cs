@@ -21,6 +21,7 @@ public class EntityBehaviour : MonoBehaviour
     [SerializeField]
     private string entityState = "Null";
     public bool stateLock = false;
+    
     [Space(10)]
     public EntityInputs inputs;
     public List<MonoBehaviour> actionList = new List<MonoBehaviour>();
@@ -48,11 +49,13 @@ public class EntityBehaviour : MonoBehaviour
 
     void FixedUpdate()
     {
+        SetState("Idle");
         grounded = false;
+
         if(GetComponentInChildren<Collider2D>())
         {
             Collider2D col = GetComponentInChildren<Collider2D>();
-            Vector2 lowestPoint = col.ClosestPoint((Vector2)transform.position - Vector2.up*10);
+            Vector2 lowestPoint = col.ClosestPoint(body.position - Vector2.up*10);
             RaycastHit2D hit = Physics2D.Raycast(lowestPoint + Vector2.up*0.1f,-Vector2.up,0.125f,collisionLayers);
             if(hit.collider != null)
             {
@@ -64,5 +67,6 @@ public class EntityBehaviour : MonoBehaviour
                 Debug.DrawRay(lowestPoint + Vector2.up*0.1f,Vector2.up * -0.125f, Color.red);
             }
         }
+
     }
 }

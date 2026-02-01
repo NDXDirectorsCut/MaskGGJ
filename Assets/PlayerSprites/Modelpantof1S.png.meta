@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 452aad881679e4049bbbde42cece40cc
+guid: 15706b82d26e6c147bdc8a7e479c8871
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3875541452123890295
-    second: model pantof2D_0
+      213: -8959309177179502621
+    second: Modelpantof1S_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: model pantof2D_0
+      name: Modelpantof1S_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 178
-        height: 179
+        width: 237
+        height: 197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 772652eca60b8c530800000000000000
-      internalID: 3875541452123890295
+      spriteID: 3e7815595c32aa380800000000000000
+      internalID: -8959309177179502621
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      model pantof2D_0: 3875541452123890295
+      Modelpantof1S_0: -8959309177179502621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

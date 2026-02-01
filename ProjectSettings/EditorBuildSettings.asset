@@ -9,16 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Ttile Screen.unity
     guid: fbe1d44be2ca8b34fa06e152efa5df09
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Level1backup.unity
     guid: 615246ae4bd867b4cb0cd0265eab813e
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/TestLevel.unity
+    path: Assets/Scenes/TestLevelDOI.unity
     guid: be53897c15b9cc045ba580028b29b0ac
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
+    path: Assets/Scenes/Level3backup.unity
     guid: 691473e5c0498c7499eac436b87efb60
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

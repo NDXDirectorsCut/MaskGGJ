@@ -12,24 +12,6 @@ public class PlayerInput : MonoBehaviour
         entity = GetComponentInChildren<EntityBehaviour>();
     }
 
-    // float BufferAxis()
-    // {
-    //     return 0;
-    // }
-
-    // bool BufferButton(string inputCall)
-    // {
-    //     bool value = Input.GetButton(inputCall);
-    //     buffer = StartCoroutine(Buffer());
-    //     return value;
-    // }
-
-    // IEnumerator Buffer()
-    // {
-    //     yield return new WaitForFixedUpdate();
-    //     buffer = null;
-    // }
-
     // Update is called once per frame
     void Update()
     {
@@ -40,5 +22,6 @@ public class PlayerInput : MonoBehaviour
         entity.inputs.special1 = Input.GetButton("Fire2");
         entity.inputs.special2 = Input.GetButton("Fire3");
         entity.inputs.interact = Mathf.Clamp(Input.GetAxisRaw("Vertical"),0,1)!=0;
+        entity.inputs.sprint = Input.GetButton("Sprint");
     }
 }

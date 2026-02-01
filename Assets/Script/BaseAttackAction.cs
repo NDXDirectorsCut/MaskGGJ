@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
 
 public class BaseAttackAction : MonoBehaviour
 {
@@ -48,11 +48,12 @@ public class BaseAttackAction : MonoBehaviour
             StartCoroutine(stun.Stun());
         }
         hitEntity.stats.health -= entity.stats.baseDamage;
+        
     }
 
     IEnumerator Jab()
     {
-        if(canAttack == true)
+        if(canAttack == true && entity.stats.activeStamina > 0)
         {
             StartCoroutine(Cooldown());
             Collider2D[] colliders = Physics2D.OverlapCircleAll(entity.body.position
@@ -60,14 +61,16 @@ public class BaseAttackAction : MonoBehaviour
                 hitRadius,
                 hitLayers);
             StartCoroutine(DrawCircle(entity.body.position+entity.faceDirection.normalized*offset,2));
-            foreach(Collider2D entityCol in colliders)
+            entity.stats.activeStamina -= 1;
+            foreach (Collider2D entityCol in colliders)
             {
                 if(entityCol.transform.root != transform.root)
                 {
                     EntityBehaviour hitEntity = entityCol.transform.root.GetComponentInChildren<EntityBehaviour>();
                     if(hitEntity!=null)
                     {
-                        Hit(hitEntity);
+                        if(entity.SetState("Punch"))
+                            Hit(hitEntity);
                     }
                 }
             }

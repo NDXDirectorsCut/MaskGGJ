@@ -8,6 +8,7 @@ public class MaskBehavior : Interactable
     bool modified = false;
     public GameObject attachedObject;
     EntityBehaviour attachedEntity;
+    public List<MonoBehaviour> abilities = new List<MonoBehaviour>();
     public LayerMask layers;
     public float yOffset;
     [Header("Sway")]
@@ -30,7 +31,16 @@ public class MaskBehavior : Interactable
     public override void Interact(GameObject interactor)
     {
         if(canInteract)
-            attachedObject = interactor;
+        {
+            if(interactor.transform.root.GetComponentInChildren<EntityBehaviour>())
+            {
+                EntityBehaviour entity = interactor.transform.root.GetComponentInChildren<EntityBehaviour>();
+                if(entity.masked == false)
+                {
+                    attachedObject = entity.maskAttach;
+                }
+            }
+        }
     }
 
     void ModifyStats(EntityStats destination)
@@ -61,6 +71,7 @@ public class MaskBehavior : Interactable
                 Vector2 objectPos = hit.point + Vector2.up * yOffset;
                 Vector3 moveDir = new Vector3(objectPos.x, objectPos.y, 0) - transform.position;
                 transform.position += moveDir.normalized * moveDir.magnitude * swaySpeed * Time.deltaTime;
+                transform.up = Vector2.up;
                 SwayAnim(swaySpeed,swayDistance);
                 canInteract = true;
             }
@@ -85,6 +96,7 @@ public class MaskBehavior : Interactable
                     attachedObject = attachedEntity.maskAttach;
                     transform.parent = attachedObject.transform;
                     transform.position = attachedObject.transform.position;
+                    transform.up = attachedObject.transform.up;
                 }
                 if(attachedEntity.stats.health == 0)
                 {

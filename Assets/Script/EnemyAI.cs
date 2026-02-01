@@ -10,6 +10,13 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         entity = GetComponent<EntityBehaviour>();
+        Collider2D[] potentialList = Physics2D.OverlapCircleAll(transform.position, 1000);
+        foreach( Collider2D collider in potentialList)
+        {
+            if(collider.gameObject.tag == "Player")
+                target = collider.gameObject;
+        }
+
     }
 
     void CrazyBehavior()

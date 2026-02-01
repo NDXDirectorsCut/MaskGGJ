@@ -113,7 +113,7 @@ Transform:
   m_GameObject: {fileID: 926899337829970482}
   serializedVersion: 2
   m_LocalRotation: {x: 0.00000017558709, y: 0.000000028493867, z: -0.9870874, w: -0.16018254}
-  m_LocalPosition: {x: -0.023971153, y: 0.29815155, z: -0.000000008528116}
+  m_LocalPosition: {x: -0.023971153, y: 0.29815155, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -320,7 +320,7 @@ Transform:
   m_GameObject: {fileID: 2743925455552532167}
   serializedVersion: 2
   m_LocalRotation: {x: -1, y: -5.003156e-15, z: -0.00000004371139, w: 6.1232124e-17}
-  m_LocalPosition: {x: 0.029679216, y: 0.11274848, z: 0.0000000025946392}
+  m_LocalPosition: {x: 0.029679216, y: 0.11274848, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -581,7 +581,7 @@ Transform:
   m_GameObject: {fileID: 4492381611981129577}
   serializedVersion: 2
   m_LocalRotation: {x: -0.0000000031469163, y: 0.000000050546586, z: -0.062137444, w: 0.9980676}
-  m_LocalPosition: {x: -0.05418197, y: 0.3750408, z: 0.000000005488034}
+  m_LocalPosition: {x: -0.05418197, y: 0.3750408, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -796,9 +796,9 @@ MonoBehaviour:
   followTarget: {fileID: 7803192358954704640}
   fixedTarget: {fileID: 0}
   yOffset: 2.5
-  speed: 0.5
-  distanceBuffer: {x: 2, y: 2}
-  distanceStrength: 2
+  speed: 1
+  distanceBuffer: {x: 1, y: 2}
+  distanceStrength: 2.2
   layers:
     serializedVersion: 2
     m_Bits: 1
@@ -885,15 +885,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   entityState: Idle
   stateLock: 0
+  masked: 0
+  maskAttach: {fileID: 4492381611981129577}
   stats:
     health: 5
+    maxStamina: 5
+    activeStamina: 5
+    staminaGain: 1
     baseSpeed: 6
     accel: 40
     decel: 60
     sprintSpeed: 12
     baseJump: 4
     addJump: 35
-    baseDash: 20
     baseDamage: 1
     attackCooldown: 0.3
     knockback: 5
@@ -905,6 +909,7 @@ MonoBehaviour:
     special1: 0
     special2: 0
     interact: 0
+    sprint: 0
   grounded: 0
   groundCheckDistance: 0.2
   collisionLayers:
@@ -976,6 +981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9b08da78615528469fb74a116c4cdce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stunTime: 0.2
 --- !u!114 &1303801343126999759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -989,6 +995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactRange: 2
+  cooldown: 0.5
   layers:
     serializedVersion: 2
     m_Bits: 64
@@ -1213,6 +1220,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5588157800673540528, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5486043939734375268, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -1567380771582843936, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1235,6 +1250,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5483973992979734313, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5746564759562468899, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}
+      propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7143316756214797464, guid: 10c3d1b628886664ca8b17e07bcd3b34, type: 3}

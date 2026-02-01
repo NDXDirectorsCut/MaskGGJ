@@ -18,6 +18,15 @@ public class EnemyAI : MonoBehaviour
         }
 
     }
+    void FollowBehavior()
+    {
+        Vector3 toDir = target.transform.position - transform.position;
+        entity.inputs.horizontal = toDir.x < 0 ? -1 : 1;
+        if (toDir.y > 0.5f)
+            entity.inputs.jump = true;
+        if (toDir.magnitude < 0.5f)
+            entity.inputs.baseAttack = true;
+    }
 
     void CrazyBehavior()
     {
@@ -41,7 +50,7 @@ public class EnemyAI : MonoBehaviour
         {
             if(target != null)
             {
-
+                FollowBehavior();
             }
         }
     }

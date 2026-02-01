@@ -741,30 +741,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &861616519 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8035771336714644575, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-  m_PrefabInstance: {fileID: 7915322009261950818}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &861616523
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 861616519}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c8cd257d381ed946818d637835f96a7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  activate: 0
-  enemySpawns:
-  - {fileID: 6720149159131976311, guid: 22a6142e58dd3874ea88133b634ae392, type: 3}
-  - {fileID: 6720149159131976311, guid: 22a6142e58dd3874ea88133b634ae392, type: 3}
-  enemies: 5
-  spawnRate: 5
-  radius: 2
 --- !u!1 &1040694743 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 762609645895893141, guid: eb10c143db0f34a43b5e0e592e5d649e, type: 3}
@@ -1327,33 +1303,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5573291179025925548, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-      propertyPath: m_ExcludeLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5573291179025925548, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-      propertyPath: m_IncludeLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5573291179025925548, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-      propertyPath: m_ContactCaptureLayers.m_Bits
-      value: 8
-      objectReference: {fileID: 0}
     - target: {fileID: 8035771336714644575, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
       propertyPath: m_Name
       value: CombatSection
       objectReference: {fileID: 0}
-    - target: {fileID: 8035771336714644575, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-      propertyPath: m_Layer
-      value: 4
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8035771336714644575, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 861616523}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83894461c3d61fe49abb4249b205dd19, type: 3}
 --- !u!1001 &8939438914818221046
 PrefabInstance:

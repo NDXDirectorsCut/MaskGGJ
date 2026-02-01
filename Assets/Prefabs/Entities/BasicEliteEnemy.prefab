@@ -259,7 +259,7 @@ MonoBehaviour:
   masked: 0
   maskAttach: {fileID: 5291832175241956667}
   stats:
-    health: 3
+    health: 5
     maxStamina: 5
     activeStamina: 5
     staminaGain: 0
@@ -1010,6 +1010,10 @@ PrefabInstance:
       propertyPath: attachedObject
       value: 
       objectReference: {fileID: 2070158808192515829}
+    - target: {fileID: 3147401192452482990, guid: 8e50967bdb0328c48abd82bd3c8180b7, type: 3}
+      propertyPath: modifiedStats.health
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6152924260911194138, guid: 8e50967bdb0328c48abd82bd3c8180b7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.82

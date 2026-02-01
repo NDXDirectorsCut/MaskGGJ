@@ -8,7 +8,7 @@ public class ElevatorBehavior : Interactable
     public Transform bPoint;
 
     public bool onB = false;
-    public float speed = 5;
+    public float time = 2;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,17 +18,16 @@ public class ElevatorBehavior : Interactable
 
     IEnumerator Move(Vector3 targetPos)
     {
+        Vector3 startPos = onB? bPoint.position : aPoint.position;
         float distance = 100;
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, 3);
-        while (distance>0.1f)
+        float currTime = 0;
+        while (currTime < time)
         {
             Vector3 moveDir = targetPos - transform.position;
             distance = moveDir.magnitude;
-            foreach(Collider2D hit in hits)
-            {
-                //hit.transform.root.position += moveDir.normalized * speed * Time.fixedDeltaTime;
-            }
-            transform.position += moveDir.normalized * speed * Time.fixedDeltaTime;
+            transform.position = Vector3.Lerp(startPos, targetPos, currTime / time);
+            currTime += Time.fixedDeltaTime;
             yield return new WaitForFixedUpdate();
         }
         onB = !onB;

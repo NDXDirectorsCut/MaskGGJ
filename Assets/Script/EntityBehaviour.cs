@@ -13,6 +13,7 @@ public class EntityInputs
     public bool special1;
     public bool special2;
     public bool interact;
+    public bool sprint;
 }
 
 [System.Serializable]
@@ -21,6 +22,7 @@ public class EntityStats
     public int health = 1;
     public int maxStamina = 5;
     public int activeStamina = 5;
+    public float staminaGain = 1;
     public float baseSpeed = 6;
     public float accel = 40;
     public float decel = 60;
@@ -74,6 +76,18 @@ public class EntityBehaviour : MonoBehaviour
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
+        StartCoroutine(StaminaGain());
+    }
+
+    IEnumerator StaminaGain()
+    {
+        while(stats.health >= 0)
+        {
+            
+            yield return new WaitForSeconds(1/stats.staminaGain);
+            if(GetState() == "Idle" && stats.activeStamina < stats.maxStamina && grounded && body.linearVelocity.x<stats.sprintSpeed)
+                stats.activeStamina += 1;
+        }
     }
 
     void FixedUpdate()

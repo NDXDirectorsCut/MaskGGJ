@@ -1,15 +1,26 @@
 using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
 
 public class InteractAction : MonoBehaviour
 {
     EntityBehaviour entity;
     public float interactRange;
+    public float cooldown = 0.5f;
+    bool canInteract = true;
     public LayerMask layers;
 
     // Start is called before the first frame update
     void Start()   
     {
         entity = GetComponentInChildren<EntityBehaviour>();
+    }
+
+    IEnumerator Cooldown()
+    {
+        canInteract = false;
+        yield return new WaitForSeconds(cooldown);
+        canInteract = true;
     }
 
     Interactable GetInteractable()
@@ -36,8 +47,9 @@ public class InteractAction : MonoBehaviour
         if(entity.inputs.interact)
         {
             Interactable interactObj = GetInteractable();
-            if(interactObj != null)
+            if(interactObj != null && canInteract == true)
             {
+                StartCoroutine(Cooldown());
                 interactObj.Interact(gameObject);
             }
         }

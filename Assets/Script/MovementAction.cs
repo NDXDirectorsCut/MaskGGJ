@@ -5,6 +5,8 @@ using UnityEngine;
 public class MovementAction : MonoBehaviour
 {
     EntityBehaviour entity;
+    bool coroutine = true;
+    bool sprinting = false;
     // public float speed = 5;
     // public float startAccel = 25;
     // public float startDecel = 25;
@@ -33,6 +35,17 @@ public class MovementAction : MonoBehaviour
         entity.body.linearVelocity -= -Vector2.Perpendicular(entity.normal) * deceleration * deltaTime;
     }
 
+    IEnumerator StaminaDrain()
+    {
+        coroutine = false;
+        while(sprinting == true)
+        {
+            entity.stats.activeStamina -= 1;
+            yield return new WaitForSeconds(1f);
+        }
+        coroutine = true;
+    }
+
     // Update is called once per frame
     void FixedUpdate()
     {
@@ -43,7 +56,20 @@ public class MovementAction : MonoBehaviour
             {
                 if(entity.inputs.horizontal!=0)
                 {
-                    Move(entity.stats.accel,entity.stats.baseSpeed,entity.inputs.horizontal,Time.fixedDeltaTime);
+                    if(entity.inputs.sprint)
+                    {
+                        Move(entity.stats.accel, entity.stats.sprintSpeed, entity.inputs.horizontal, Time.fixedDeltaTime);
+                        sprinting = true;
+                        if (coroutine == true)
+                        {
+                            StartCoroutine(StaminaDrain());
+                        }
+                    }
+                    else
+                    {
+                        Move(entity.stats.accel, entity.stats.baseSpeed, entity.inputs.horizontal, Time.fixedDeltaTime);
+                        sprinting = false;
+                    }
                 }
                 else
                 {

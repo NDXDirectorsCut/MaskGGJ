@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5573291179025925548}
   - component: {fileID: 2507543750061008872}
   m_Layer: 2
-  m_Name: CameraTriggerVolume
+  m_Name: CombatSection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

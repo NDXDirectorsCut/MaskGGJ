@@ -5,7 +5,7 @@ using UnityEngine;
 public class StunAction : MonoBehaviour
 {
     EntityBehaviour entity;
-    float stunTime = 0.2f;
+    public float stunTime = 0.2f;
 
     // Start is called before the first frame update
     void Start()
@@ -18,8 +18,10 @@ public class StunAction : MonoBehaviour
         if(entity.SetState("Stunned"))
         {
             entity.stateLock = true;
+            Debug.Log("Stun!");
             yield return new WaitForSeconds(stunTime);
             entity.stateLock = false;
+            yield return new WaitForFixedUpdate();
             entity.SetState("Idle");
         }
     }

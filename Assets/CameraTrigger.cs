@@ -23,7 +23,8 @@ public class CameraTrigger : MonoBehaviour
     void OnTriggerExit2D(Collider2D col)
     {
         GameObject enemy = col.transform.root.gameObject.GetComponentInChildren<EnemyAI>().gameObject;
-        enemyList.Remove(enemy);
+        if(enemyList.Contains(enemy))
+            enemyList.Remove(enemy);
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

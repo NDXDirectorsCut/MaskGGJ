@@ -18,17 +18,18 @@ public class EntityInputs
 [System.Serializable]
 public class EntityStats
 {
-    public int health = 5;
+    public int health = 1;
+    public int maxStamina = 5;
+    public int activeStamina = 5;
     public float baseSpeed = 6;
     public float accel = 40;
     public float decel = 60;
     public float sprintSpeed = 12;
     public float baseJump = 4;
     public float addJump = 35;
-    public float baseDash = 20;
     public int baseDamage = 1;
     public float attackCooldown = 0.5f;
-    public float knockback = 20f;
+    public float knockback = 5f;
 }
 
 public class EntityBehaviour : MonoBehaviour
@@ -38,6 +39,8 @@ public class EntityBehaviour : MonoBehaviour
     [SerializeField]
     private string entityState = "Null";
     public bool stateLock = false;
+    public bool masked = false;
+    public GameObject maskAttach;
 
     public EntityStats stats;
     
@@ -58,8 +61,9 @@ public class EntityBehaviour : MonoBehaviour
         if(stateLock == false)
         {
             entityState = newState;
+            return true;
         }
-        return stateLock;
+        return false;
     }
 
     public string GetState()
@@ -74,12 +78,12 @@ public class EntityBehaviour : MonoBehaviour
 
     void FixedUpdate()
     {
-        //SetState("Idle");
+        SetState("Idle");
         grounded = false;
 
-        if(GetComponentInChildren<Collider2D>())
+        if(GetComponentInChildren<CapsuleCollider2D>())
         {
-            Collider2D col = GetComponentInChildren<Collider2D>();
+            Collider2D col = GetComponentInChildren<CapsuleCollider2D>();
             Vector2 lowestPoint = col.ClosestPoint(body.position - Vector2.up*10);
             RaycastHit2D hit = Physics2D.Raycast(lowestPoint + Vector2.up*0.1f,-Vector2.up,groundCheckDistance,collisionLayers);
             if(hit.collider != null)
@@ -100,7 +104,7 @@ public class EntityBehaviour : MonoBehaviour
             faceDirection = new Vector2(body.linearVelocity.x,0).normalized;
         }
 
-        if(stats.health<=0)
+        if(stats.health<=0 && masked == false)
         {
             stateLock = true;
             entityState = "Dead";
@@ -108,6 +112,7 @@ public class EntityBehaviour : MonoBehaviour
             body.linearVelocity = new Vector2(Mathf.Lerp(body.linearVelocity.x,0,0.2f),body.linearVelocity.y);
             Collider2D col = transform.root.GetComponentInChildren<Collider2D>();
             col.enabled = false;
+            body.bodyType = RigidbodyType2D.Static;
         }   
         Debug.DrawRay(transform.position,faceDirection,Color.blue);
     }

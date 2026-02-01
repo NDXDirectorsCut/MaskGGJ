@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MaskBehavior : Interactable
 {
+    public EntityStats modifiedStats;
+    bool modified = false;
     public GameObject attachedObject;
     EntityBehaviour attachedEntity;
     public LayerMask layers;
@@ -31,6 +33,22 @@ public class MaskBehavior : Interactable
             attachedObject = interactor;
     }
 
+    void ModifyStats(EntityStats destination)
+    {
+        destination.health = modifiedStats.health;
+        destination.maxStamina = modifiedStats.maxStamina;
+        destination.activeStamina = modifiedStats.activeStamina;
+        destination.baseSpeed = modifiedStats.baseSpeed;
+        destination.accel = modifiedStats.accel;
+        destination.decel = modifiedStats.decel;
+        destination.sprintSpeed = modifiedStats.sprintSpeed;
+        destination.baseJump = modifiedStats.baseJump;
+        destination.addJump = modifiedStats.addJump;
+        destination.baseDamage = modifiedStats.baseDamage;
+        destination.attackCooldown = modifiedStats.attackCooldown;
+        destination.knockback = modifiedStats.knockback;
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -50,17 +68,29 @@ public class MaskBehavior : Interactable
         else
         {
             sprite.position = transform.position;
-            transform.position = attachedObject.transform.position; 
+            transform.parent = attachedObject.transform; 
             canInteract = false;
             if(attachedEntity == null)
             {
                 attachedEntity = attachedObject.transform.root.GetComponentInChildren<EntityBehaviour>();
+                modified = false;
             }
             else
             {
+                if(modified == false)
+                {
+                    modified = true;
+                    ModifyStats(attachedEntity.stats);
+                    attachedEntity.masked = true;
+                    attachedObject = attachedEntity.maskAttach;
+                    transform.parent = attachedObject.transform;
+                    transform.position = attachedObject.transform.position;
+                }
                 if(attachedEntity.stats.health == 0)
                 {
                     attachedObject = null;
+                    attachedEntity.stats = new EntityStats();
+                    attachedEntity.masked = false;
                     attachedEntity = null;
                 }
             }
